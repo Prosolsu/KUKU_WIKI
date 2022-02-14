@@ -10,6 +10,6 @@
 
 ## The Formal Stuff
 
-* [Our Token: KUKU](the-formal-stuff/our-token-kuku/README.md)
+* [Our Token: KUKU](the-formal-stuff/requesting-time-off.md)
   * [Contract Address](the-formal-stuff/our-token-kuku/contract-address.md)
 * [Filing Expenses](the-formal-stuff/filing-expenses.md)
