@@ -1,7 +1,7 @@
 ---
 description: We honor our commitments with integrity
 cover: ../.gitbook/assets/core-values-concept-or-banner-in-thin-vector-23485977.jpg
-coverY: 138.6138613861386
+coverY: 102.7227722772277
 ---
 
 # Values
