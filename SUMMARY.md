@@ -1,11 +1,12 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [panKUKU](README.md)
 
-## The Company
+## About Us
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Mission & Vision](about-us/mission-and-vision.md)
+* [Values](about-us/values.md)
+* [Meet the Team!](about-us/meet-the-team.md)
 
 ## The Formal Stuff
 
