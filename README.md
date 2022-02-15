@@ -8,4 +8,4 @@ cover: .gitbook/assets/Banner_Logo.png
 
 ## Welcome aboard!
 
-Welcome to the our wiki! Here you'll find everything you need to know about our token KUKU!
+Welcome to the our wiki! Here you'll find everything you're looking for.

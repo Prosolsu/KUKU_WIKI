@@ -1,17 +1,16 @@
 ---
-description: We honor our commitments with integrity
+description: The time is always right to do what is right
 cover: ../.gitbook/assets/core-values-concept-or-banner-in-thin-vector-23485977.jpg
 coverY: 107.67326732673268
 ---
 
 # Values
 
-## Trust & Security
+## Integrity
 
-Our Mission is creating an everlasting Crypto Eco-System by delivering and ensuring Trust, Dedication & Quality. \
-Our aim is to provide a Structural Social-Economic Environment through a true Payment & Charity System in Suriname and the Region.
+We honor our commitments with integrity. Acting with strong ethics is a priority for everyone representing the organization as well as the company's behavior as a whole.
 
-## Our Vision
+## Reliability
 
 ### Continuous Improvement
 
