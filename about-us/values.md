@@ -12,14 +12,10 @@ We honor our commitments with integrity. Acting with strong ethics is a priority
 
 ## Reliability
 
-### Continuous Improvement
+### Trust
 
-To be the Biggest and most Secure Decentralized Crypto Exchange
+We dedicated our resources for setting up the most reliable digital networks, where Smart Contracts are Verified and Audited. Even more, every user has the opportunity to do the necessary due diligence on us. We abide by a open sourced code and a transparent team.&#x20;
 
-### Give back
+### Security
 
-To create the Largest Charity Foundation in Suriname
-
-### Crypto Education
-
-To contribute to Crypto Awareness in Suriname and the Region
+We apply different Security Strategies to help improve our system over time. Any user can contribute to concerns, bugs or other issues.  Furthermore we apply high grade mechanism to keep our platform and token secure.&#x20;
