@@ -1,7 +1,7 @@
 ---
 description: The time is always right to do what is right
-cover: ../.gitbook/assets/core-values-concept-or-banner-in-thin-vector-23485977.jpg
-coverY: 107.67326732673268
+cover: ../.gitbook/assets/1587741938.png
+coverY: 0
 ---
 
 # Values
