@@ -11,5 +11,6 @@
 ## The Formal Stuff
 
 * [Our Token: KUKU](the-formal-stuff/requesting-time-off.md)
-  * [Contract Address](the-formal-stuff/our-token-kuku/contract-address.md)
+  * [Tokenomics](the-formal-stuff/our-token-kuku/tokenomics.md)
+  * [Minting Policy](the-formal-stuff/our-token-kuku/minting-policy.md)
 * [Filing Expenses](the-formal-stuff/filing-expenses.md)

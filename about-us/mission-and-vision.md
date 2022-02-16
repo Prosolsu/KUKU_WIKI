@@ -15,12 +15,12 @@ Our aim is to provide a Structural Social-Economic Environment through a true Pa
 
 ### Continuous Improvement
 
-To be the Biggest and most Secure Decentralized Crypto Exchange
+To be the Biggest and most Secure Decentralized Crypto Exchange.
 
 ### Give back
 
-To create the Largest Charity Foundation in Suriname
+To create the Largest Charity Foundation in Suriname.
 
 ### Crypto Education
 
-To contribute to Crypto Awareness in Suriname and the Region
+To contribute to Crypto Awareness in Suriname and the Region.
