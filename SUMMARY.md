@@ -10,7 +10,10 @@
 
 ## The Formal Stuff
 
-* [Our Token: KUKU](the-formal-stuff/requesting-time-off.md)
-  * [Tokenomics](the-formal-stuff/our-token-kuku/tokenomics.md)
-  * [Minting Policy](the-formal-stuff/our-token-kuku/minting-policy.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [The Token: KUKU](the-formal-stuff/the-token-kuku/README.md)
+  * [Tokenomics](the-formal-stuff/the-token-kuku/tokenomics.md)
+  * [Token Distribution](the-formal-stuff/the-token-kuku/token-distribution.md)
+  * [Minting Policy](the-formal-stuff/the-token-kuku/minting-policy.md)
+  * [Burning Policy](the-formal-stuff/the-token-kuku/burning-policy.md)
+* [The Exchange: KUKU Swap](the-formal-stuff/the-exchange-kuku-swap.md)
+* [Copy of The Exchange: KUKU Swap](the-formal-stuff/copy-of-the-exchange-kuku-swap.md)
