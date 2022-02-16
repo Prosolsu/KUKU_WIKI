@@ -1,7 +1,7 @@
 ---
 coverY: 0
 description: A Hyper Deflationary Token Running on Binance Smart Chain
-cover: .gitbook/assets/Banner_Logo.png
+cover: .gitbook/assets/bannernewlogo_orange.png
 ---
 
 # panKUKU

@@ -9,7 +9,8 @@ description: '"A spirit with a Vision is a dream with a Mission"'
 ## Our Mission
 
 Is creating an everlasting crypto Eco-System by delivering and ensuring Trust, Dedication & Quality. \
-We aim to provide a Structural Social-Economic Environment through a true Payment & Charity System in Suriname and the Region.
+We aim to provide a Structural Social-Economic Environment through a true Payment & Charity System in Suriname and the Region.\
+Furthermore contributing to crypto awareness and pushing the boundaries of cryptocurrencies  as a payment option in-Store and Online.
 
 ## Our Vision
 
