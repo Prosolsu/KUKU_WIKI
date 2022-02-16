@@ -8,8 +8,8 @@ description: '"A spirit with a Vision is a dream with a Mission"'
 
 ## Our Mission
 
-Our Mission is creating an everlasting crypto Eco-System by delivering and ensuring Trust, Dedication & Quality. \
-Our aim is to provide a Structural Social-Economic Environment through a true Payment & Charity System in Suriname and the Region.
+Is creating an everlasting crypto Eco-System by delivering and ensuring Trust, Dedication & Quality. \
+We aim to provide a Structural Social-Economic Environment through a true Payment & Charity System in Suriname and the Region.
 
 ## Our Vision
 
