@@ -1,5 +1,5 @@
 ---
-description: The time is always right to do what is right
+description: '"The time is always right to do what is right"'
 cover: ../.gitbook/assets/1587741938.png
 coverY: 0
 ---
