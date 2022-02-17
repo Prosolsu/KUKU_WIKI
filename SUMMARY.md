@@ -1,6 +1,6 @@
 # Table of contents
 
-* [panKUKU](README.md)
+* [panKUKU Intro](README.md)
 
 ## About Us
 
@@ -15,5 +15,12 @@
   * [Token Distribution](the-formal-stuff/the-token-kuku/token-distribution.md)
   * [Minting Policy](the-formal-stuff/the-token-kuku/minting-policy.md)
   * [Burning Policy](the-formal-stuff/the-token-kuku/burning-policy.md)
-* [The Exchange: KUKU Swap](the-formal-stuff/the-exchange-kuku-swap.md)
-* [Copy of The Exchange: KUKU Swap](the-formal-stuff/copy-of-the-exchange-kuku-swap.md)
+* [The Exchange](the-formal-stuff/the-exchange/README.md)
+  * [KUKU Swap](the-formal-stuff/the-exchange/kuku-swap.md)
+* [NFT Marketplace](the-formal-stuff/nft-marketplace.md)
+* [Lottery](the-formal-stuff/lottery.md)
+* [Future Products](the-formal-stuff/future-products/README.md)
+  * [KUKU Wallet](the-formal-stuff/future-products/kuku-wallet.md)
+  * [Launchpad](the-formal-stuff/future-products/launchpad.md)
+  * [Predictions](the-formal-stuff/future-products/predictions.md)
+  * [Webshop](the-formal-stuff/future-products/webshop.md)

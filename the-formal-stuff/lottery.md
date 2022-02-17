@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Filing Expenses
+# Lottery
 
 To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
 
