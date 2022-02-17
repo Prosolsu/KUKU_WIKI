@@ -7,6 +7,7 @@
 * [Mission & Vision](about-us/mission-and-vision.md)
 * [Values](about-us/values.md)
 * [Meet the Team!](about-us/meet-the-team.md)
+* [Contact us](about-us/contact-us.md)
 
 ## Products
 
@@ -21,14 +22,14 @@
   * [💸 Farming](products/the-exchange/farming.md)
   * [🥞 Pools](products/the-exchange/pools.md)
 * [NFT Marketplace](products/nft-marketplace.md)
-* [Lottery](products/lottery.md)
-* [Future Products](products/future-products/README.md)
+* [🎲 Lottery](products/lottery.md)
+* [♾ Future Products](products/future-products/README.md)
   * [📱 KUKU Wallet](products/future-products/kuku-wallet.md)
   * [🚀 Launchpad](products/future-products/launchpad.md)
   * [🔮 Predictions](products/future-products/predictions.md)
   * [🛒 Webshop](products/future-products/webshop.md)
 
-## Copy of Products
+## Help & Instructions
 
-* [Copy of NFT Marketplace](copy-of-products/copy-of-nft-marketplace.md)
-* [Copy of Lottery](copy-of-products/copy-of-lottery.md)
+* [Getting Started](help-and-instructions/getting-started.md)
+* [How To](help-and-instructions/how-to.md)

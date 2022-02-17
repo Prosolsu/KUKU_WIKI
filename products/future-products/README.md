@@ -1,12 +1,13 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+  ../../.gitbook/assets/abstract-technology-background-with-big-data-internet-connection-abstract-sense-of-science-and-technology-analytics-concept-graphic-design-illustration-vector.jpg
 coverY: 0
+description: Crypto moves fast, so do we!
 ---
 
-# Future Products
+# ♾ Future Products
 
-To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
+We will never stop driving and contributing to our Eco-System of our Cryptocurrency
 
 {% hint style="info" %}
 **Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
