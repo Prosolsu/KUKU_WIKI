@@ -1,7 +1,7 @@
 ---
 coverY: 0
 description: a proud product from Suriname. Get ready to Swap, Stake & Shop!
-cover: .gitbook/assets/bannernewlogo_orange.png
+cover: .gitbook/assets/bannernewlogo_lowq.jpg
 ---
 
 # 🇸🇷 panKUKU Intro
