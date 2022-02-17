@@ -1,6 +1,6 @@
 ---
 coverY: 0
-description: A Hyper Deflationary Token Running on Binance Smart Chain
+description: a proud product from Suriname. Get ready to Swap, Stake & Shop!
 cover: .gitbook/assets/bannernewlogo_orange.png
 ---
 
