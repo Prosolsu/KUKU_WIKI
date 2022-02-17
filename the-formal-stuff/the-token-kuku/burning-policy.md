@@ -16,7 +16,7 @@ Apart from our automated burn system, we initiate manual mass burns. Just for go
 ****Every quarter between 1% and 5% over the Total Supply (already burned tokens excluded)
 
 **Initial Burn**\
-****1% of the total Supply: 10 billion tokens - 10,000,000,000
+****2% of the total Supply: 20 billion tokens - 20,000,000,000
 
 **Burn Address**\
 [0x000000000000000000000000000000000000dead](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538?a=0x000000000000000000000000000000000000dead)
