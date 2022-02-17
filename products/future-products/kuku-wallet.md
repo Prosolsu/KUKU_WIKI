@@ -1,2 +1,2 @@
-# KUKU Wallet
+# 📱 KUKU Wallet
 

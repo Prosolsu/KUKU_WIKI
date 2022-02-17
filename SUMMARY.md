@@ -1,6 +1,6 @@
 # Table of contents
 
-* [panKUKU Intro](README.md)
+* [🇸🇷 panKUKU Intro](README.md)
 
 ## About Us
 
@@ -17,16 +17,16 @@
   * [Minting Policy](products/the-token-kuku/minting-policy.md)
   * [Burning Policy](products/the-token-kuku/burning-policy.md)
 * [The Exchange](products/the-exchange/README.md)
-  * [KUKU Swap](products/the-exchange/kuku-swap.md)
-  * [Farming](products/the-exchange/farming.md)
-  * [Pools](products/the-exchange/pools.md)
+  * [🔄 KUKU Swap](products/the-exchange/kuku-swap.md)
+  * [💸 Farming](products/the-exchange/farming.md)
+  * [🥞 Pools](products/the-exchange/pools.md)
 * [NFT Marketplace](products/nft-marketplace.md)
 * [Lottery](products/lottery.md)
 * [Future Products](products/future-products/README.md)
-  * [KUKU Wallet](products/future-products/kuku-wallet.md)
-  * [Launchpad](products/future-products/launchpad.md)
-  * [Predictions](products/future-products/predictions.md)
-  * [Webshop](products/future-products/webshop.md)
+  * [📱 KUKU Wallet](products/future-products/kuku-wallet.md)
+  * [🚀 Launchpad](products/future-products/launchpad.md)
+  * [🔮 Predictions](products/future-products/predictions.md)
+  * [🛒 Webshop](products/future-products/webshop.md)
 
 ## Copy of Products
 

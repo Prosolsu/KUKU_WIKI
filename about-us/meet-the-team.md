@@ -7,16 +7,18 @@ description: '"Teamwork makes the Dream Work'
 
 # Meet the Team!
 
-## Esme DeWalt
+## Nigel Hupsel
 
-👋 CEO — 💌 esme@company.com — 🇺🇸 San Francisco (GMT-7)
+👋 Creator - :e-mail: nhupsel@pankuku.net — Suriname, Paramaribo
 
 ![](https://images.unsplash.com/photo-1571442463800-1337d7af9d2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2973\&q=80)
 
 ### Bio
 
+Entrepreneur and multiple business owner. Too much too talk about :smile:
+
 {% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+To learn more, check out my **LinkedIn**
 {% endhint %}
 
 ## Rima Paterson

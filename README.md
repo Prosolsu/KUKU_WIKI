@@ -4,7 +4,7 @@ description: a proud product from Suriname. Get ready to Swap, Stake & Shop!
 cover: .gitbook/assets/bannernewlogo_orange.png
 ---
 
-# panKUKU Intro
+# 🇸🇷 panKUKU Intro
 
 ## Welcome aboard!
 
@@ -19,7 +19,7 @@ Here you'll find everything regarding our DEX, Products and Team.
 No minting of new tokens and a whole lot of auto & manual burning!&#x20;
 {% endhint %}
 
-Our Exchange offers the following products**:**
+Our Platform offers the following products**:**
 
 * [x] KUKU Swap
 * [x] Farms
@@ -32,5 +32,5 @@ Future Products include**:**
 * [ ] KUKU Wallet
 * [ ] Predictions
 * [ ] Launchpad
-* [ ] Webshop USA
-* [ ] Webshop Suriname
+* [ ] Webshop USA & Suriname
+* [ ] KUKU Play

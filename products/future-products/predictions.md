@@ -1,2 +1,2 @@
-# Predictions
+# 🔮 Predictions
 
