@@ -6,6 +6,8 @@ cover: .gitbook/assets/bannernewlogo_orange.png
 
 # 🇸🇷 panKUKU Intro
 
+![Swap, Stake & Shop!](.gitbook/assets/bannernewlogo\_orange.png)
+
 ## Welcome aboard!
 
 Welcome to the our wiki! \
