@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇸🇷 panKUKU Intro](README.md)
+* [🇸🇷 panKUKU](README.md)
 
 ## About Us
 
