@@ -1,10 +1,9 @@
 ---
-description: We know it hurts, let's try to make a difference
+description: Stay Connected, Stay Updated
 cover: >-
   https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
 coverY: 0
 ---
 
-# Report Scam
+# Social Links
 
-Help us try to identify as much scam and fake tokens as possible

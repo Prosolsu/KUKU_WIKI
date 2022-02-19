@@ -8,6 +8,7 @@
 * [Values](about-us/values.md)
 * [Roadmap 2022](about-us/roadmap-2022.md)
 * [Meet the Team!](about-us/meet-the-team.md)
+* [Social Links](about-us/social-links.md)
 
 ## Products
 
@@ -26,28 +27,39 @@
 * [🎲 Lottery](products/lottery.md)
 * [♾ Future Products](products/future-products/README.md)
   * [📱 KUKU Wallet](products/future-products/kuku-wallet.md)
+  * [🎮 KUKU Play](products/future-products/kuku-play.md)
   * [🚀 Launchpad](products/future-products/launchpad.md)
   * [🔮 Predictions](products/future-products/predictions.md)
   * [🛒 Webshop](products/future-products/webshop.md)
 
 ## Knowledge Center
 
-* [Applications & Listings](knowledge-center/applications-and-listings.md)
-* [Social Links](knowledge-center/social-links.md)
-* [Contracts](knowledge-center/contracts.md)
-* [Audits](knowledge-center/audits.md)
-* [Supported Wallets](knowledge-center/supported-wallets.md)
-* [Charity Foundation](knowledge-center/charity-foundation.md)
-* [Use Cases](knowledge-center/use-cases.md)
+* [The Project](knowledge-center/the-project/README.md)
+  * [Applications & Listings](knowledge-center/the-project/applications-and-listings.md)
+  * [Eco System](knowledge-center/the-project/eco-system.md)
+  * [Use Cases](knowledge-center/the-project/use-cases.md)
+  * [Contracts](knowledge-center/the-project/contracts.md)
+  * [Charity Foundation](knowledge-center/the-project/charity-foundation.md)
+  * [Crypto Awareness](knowledge-center/the-project/crypto-awareness.md)
+  * [Wallet-addresses](knowledge-center/the-project/wallet-addresses.md)
+* [Security](knowledge-center/security/README.md)
+  * [Audits](knowledge-center/security/audits.md)
 * [Why Report](knowledge-center/why-report.md)
 * [About Suriname](knowledge-center/about-suriname.md)
 
 ## Help & Instructions
 
 * [Getting Started](help-and-instructions/getting-started/README.md)
+  * [Supported Wallets](help-and-instructions/getting-started/supported-wallets.md)
   * [Create a Wallet](help-and-instructions/getting-started/create-a-wallet.md)
   * [Copy of Create a Wallet](help-and-instructions/getting-started/copy-of-create-a-wallet.md)
 * [How To](help-and-instructions/how-to.md)
 * [FAQ](help-and-instructions/faq.md)
 * [Report Scam](help-and-instructions/report-scam.md)
 * [Contact us](help-and-instructions/contact-us.md)
+
+## Legal
+
+* [Terms of Service](legal/terms-of-service.md)
+* [Imparent Loss](legal/imparent-loss.md)
+* [Disclaimer](legal/disclaimer.md)
