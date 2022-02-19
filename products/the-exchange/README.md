@@ -5,7 +5,7 @@ coverY: 0
 description: The Healthiest Exchange on Binance Smart Chain
 ---
 
-# The Exchange
+# 💫 The Exchange
 
 **Trade**\
 ****Instantly swap crypto tokens: no registration or account needed.

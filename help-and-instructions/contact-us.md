@@ -7,4 +7,6 @@ coverY: 0
 
 # Contact us
 
-{% embed url="https://forms.gle/NwSKxp4rG5F2XKnb6" %}
+{% embed url="https://forms.gle/2fWD7v3Tk6H2e4688" %}
+_We'll do our best to get in touch with you as soon as possible!_
+{% endembed %}

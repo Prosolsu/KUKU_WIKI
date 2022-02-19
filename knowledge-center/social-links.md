@@ -5,5 +5,5 @@ cover: >-
 coverY: 0
 ---
 
-# Use Cases
+# Social Links
 

@@ -2,5 +2,5 @@
 description: Coming Soon
 ---
 
-# 👨🌾 Farming
+# 💸 Farming
 
