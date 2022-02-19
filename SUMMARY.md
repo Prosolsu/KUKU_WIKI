@@ -7,8 +7,8 @@
 * [Mission & Vision](about-us/mission-and-vision.md)
 * [Values](about-us/values.md)
 * [Roadmap 2022](about-us/roadmap-2022.md)
-* [Meet the Team!](about-us/meet-the-team.md)
 * [Social Links](about-us/social-links.md)
+* [About the Founder](about-us/about-the-founder.md)
 
 ## Products
 
@@ -37,6 +37,7 @@
 * [The Project](knowledge-center/the-project/README.md)
   * [Applications & Listings](knowledge-center/the-project/applications-and-listings.md)
   * [Eco System](knowledge-center/the-project/eco-system.md)
+  * [Business Partners](knowledge-center/the-project/business-partners.md)
   * [Use Cases](knowledge-center/the-project/use-cases.md)
   * [Contracts](knowledge-center/the-project/contracts.md)
   * [Charity Foundation](knowledge-center/the-project/charity-foundation.md)
@@ -63,3 +64,4 @@
 * [Terms of Service](legal/terms-of-service.md)
 * [Imparent Loss](legal/imparent-loss.md)
 * [Disclaimer](legal/disclaimer.md)
+* [A Word from the Author](legal/a-word-from-the-author.md)

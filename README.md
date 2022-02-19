@@ -1,7 +1,7 @@
 ---
 coverY: 0
 description: a proud product from Suriname. Get ready to Swap, Stake & Shop!
-cover: .gitbook/assets/bannernewlogo_orange.png
+cover: .gitbook/assets/banner_kuku.jpg
 ---
 
 # 🇸🇷 panKUKU
@@ -11,7 +11,7 @@ cover: .gitbook/assets/bannernewlogo_orange.png
 ## Welcome aboard!
 
 Welcome to the our wiki! \
-Here you'll find everything regarding our DEX, Products and Team.\
+Here you'll find everything regarding our DEX, Products and much more!\
 The first official verified and listed cryptocurrency that stems out of "Switi Sranan"!
 
 **Intro**\
