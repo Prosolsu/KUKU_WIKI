@@ -6,7 +6,7 @@ cover: .gitbook/assets/bannernewlogo_orange.png
 
 # 🇸🇷 panKUKU
 
-![Swap, Stake & Shop!](.gitbook/assets/bannernewlogo\_orange.png)
+![a Hyper Deflationary Token Running on Binance Smart Chain](.gitbook/assets/bannernewlogo\_orange.png)
 
 ## Welcome aboard!
 
