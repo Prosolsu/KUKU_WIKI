@@ -18,7 +18,7 @@
   * [Tax System](products/the-token-kuku/tax-system.md)
   * [Minting Policy](products/the-token-kuku/minting-policy.md)
   * [Burning Policy](products/the-token-kuku/burning-policy.md)
-* [💫 The Exchange](products/the-exchange/README.md)
+* [🌐 The Exchange](products/the-exchange/README.md)
   * [🔄 KUKU Swap](products/the-exchange/kuku-swap.md)
   * [💸 Liquidity Provider](products/the-exchange/liquidity-provider.md)
   * [👨🌾 Farming](products/the-exchange/farming.md)
@@ -34,7 +34,7 @@
 
 ## Knowledge Center
 
-* [The Project](knowledge-center/the-project/README.md)
+* [🗂 The Project](knowledge-center/the-project/README.md)
   * [Applications & Listings](knowledge-center/the-project/applications-and-listings.md)
   * [Eco System](knowledge-center/the-project/eco-system.md)
   * [Partnerships](knowledge-center/the-project/partnerships/README.md)
@@ -47,10 +47,10 @@
   * [Wallet-addresses](knowledge-center/the-project/wallet-addresses.md)
   * [Charity Foundation](knowledge-center/the-project/charity-foundation.md)
   * [Awareness & Education](knowledge-center/the-project/awareness-and-education.md)
-* [Security](knowledge-center/security/README.md)
+* [🛡 Security](knowledge-center/security/README.md)
   * [Audits](knowledge-center/security/audits.md)
-* [Why Report](knowledge-center/why-report.md)
-* [About Suriname](knowledge-center/about-suriname.md)
+* [📝 Why Report](knowledge-center/why-report.md)
+* [🇸🇷 About Suriname](knowledge-center/about-suriname.md)
 
 ## Help & Instructions
 

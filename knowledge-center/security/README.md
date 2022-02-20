@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Security
+# 🛡 Security
 
 Our code and contracts are fully Open Source and Verified.\
 Our Website is equipped with the highest level of Security and a "Ultimate Protection Plan" by www.godaddy.com.\

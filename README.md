@@ -10,7 +10,7 @@ cover: .gitbook/assets/banner_kuku.jpg
 
 ## Welcome aboard!
 
-Welcome to the our wiki! \
+Welcome to the our wiki, let's call it whitepaper 2.0!\
 Here you'll find everything regarding our DEX, Products and much more!\
 The first official verified and listed cryptocurrency that stems out of "Switi Sranan"!
 

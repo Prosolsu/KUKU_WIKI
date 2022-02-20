@@ -5,5 +5,6 @@ cover: >-
 coverY: 0
 ---
 
-# About Suriname
+# 🇸🇷 About Suriname
 
+{% embed url="https://en.wikipedia.org/wiki/Suriname" %}
