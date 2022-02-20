@@ -1,7 +1,7 @@
 ---
 description: It's not just a Map. It's a Compass.
-cover: ../.gitbook/assets/1587741938.png
-coverY: 0
+cover: ../.gitbook/assets/compass.header.jpg
+coverY: -39.35767326732673
 ---
 
 # Roadmap 2022
