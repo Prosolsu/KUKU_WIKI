@@ -7,3 +7,5 @@ coverY: 0
 # Roadmap 2022
 
 ![](<../.gitbook/assets/Roadmap\_2022\_AdobeCreativeCloudExpress (1).gif>)
+
+![](<../.gitbook/assets/Roadmap 2022.png>)
