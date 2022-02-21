@@ -37,6 +37,11 @@
 ## Knowledge Center
 
 * [🗂 The Project](knowledge-center/the-project/README.md)
+  * [Use Cases](knowledge-center/the-project/use-cases/README.md)
+    * [Functions](knowledge-center/the-project/use-cases/functions.md)
+    * [For Payments](knowledge-center/the-project/use-cases/for-payments.md)
+    * [Burning & Minting](knowledge-center/the-project/use-cases/burning-and-minting.md)
+    * [Auto Reward to Holders](knowledge-center/the-project/use-cases/auto-reward-to-holders.md)
   * [Applications & Listings](knowledge-center/the-project/applications-and-listings.md)
   * [Eco System](knowledge-center/the-project/eco-system.md)
   * [Partnerships](knowledge-center/the-project/partnerships/README.md)
@@ -44,7 +49,6 @@
     * [KUKU Pay: Webshops](knowledge-center/the-project/partnerships/kuku-pay-webshops.md)
     * [Infrastructure](knowledge-center/the-project/partnerships/infrastructure.md)
     * [Crypto Companies](knowledge-center/the-project/partnerships/crypto-companies.md)
-  * [Use Cases](knowledge-center/the-project/use-cases.md)
   * [Contracts](knowledge-center/the-project/contracts.md)
   * [Wallet-addresses](knowledge-center/the-project/wallet-addresses.md)
   * [Charity Foundation](knowledge-center/the-project/charity-foundation.md)
@@ -69,6 +73,6 @@
 ## Legal
 
 * [Terms of Service](legal/terms-of-service.md)
-* [Impermanent Los](legal/impermanent-los.md)
+* [Impermanent Loss](legal/impermanent-loss.md)
 * [Disclaimer](legal/disclaimer.md)
 * [A Word from the Author](legal/a-word-from-the-author.md)

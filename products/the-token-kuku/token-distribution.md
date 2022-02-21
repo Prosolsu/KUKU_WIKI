@@ -4,4 +4,4 @@ description: Allocation of tokens and it's initial distribution
 
 # Token Distribution
 
-![](../../.gitbook/assets/Token\_Allocation.jpg)
+![Token Allocation and it's initial Distribution](../../.gitbook/assets/Token\_Allocation.jpg)
