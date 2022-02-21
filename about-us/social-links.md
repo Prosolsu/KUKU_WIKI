@@ -6,8 +6,6 @@ coverY: 0
 
 # Social Links
 
-![](../.gitbook/assets/twitter-small-icon-6.jpg) ![](../.gitbook/assets/social-facebook-icon.png)
-
 ![](<../.gitbook/assets/download (1).png>) ![](<../.gitbook/assets/download (3).png>)
 
-![](../.gitbook/assets/whatsapp\_edit.jpg)
+![](<../.gitbook/assets/fb\_small (1).png>) ![](../.gitbook/assets/whapp\_small.png)
