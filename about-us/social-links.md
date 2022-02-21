@@ -6,6 +6,4 @@ coverY: 0
 
 # Social Links
 
-![](<../.gitbook/assets/download (1).png>) ![](<../.gitbook/assets/download (3).png>)
-
-![](<../.gitbook/assets/fb\_small (1).png>) ![](../.gitbook/assets/whapp\_small.png)
+![Facebook](<../.gitbook/assets/fb\_small (1).png>) ![Whatsapp](../.gitbook/assets/whapp\_small.png) ![Telegram](../.gitbook/assets/telegram\_small.png) ![LinkedIn](../.gitbook/assets/Linkedin\_small.png) ![Twitter](../.gitbook/assets/twitter\_small.png)
