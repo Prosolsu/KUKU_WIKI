@@ -1,10 +1,19 @@
 ---
 description: Coming Soon
-cover: >-
-  https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+cover: ../.gitbook/assets/surinaamse-vlag (1).jpg
 coverY: 0
 ---
 
 # 🇸🇷 About Suriname
 
 {% embed url="https://en.wikipedia.org/wiki/Suriname" %}
+Officially known as the Republic of Suriname
+{% endembed %}
+
+{% embed url="https://www.forest93.sr" %}
+_93% Forest, 100% Surinamese_
+{% endembed %}
+
+{% embed url="https://www.discover-suriname.com/about-suriname" %}
+_The country that may become the logistic gateway of South America_
+{% endembed %}

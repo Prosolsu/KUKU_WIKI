@@ -52,6 +52,7 @@
 * [🛡 Security](knowledge-center/security/README.md)
   * [Audits](knowledge-center/security/audits.md)
 * [📝 Why Report](knowledge-center/why-report.md)
+* [📖 Vocabulary](knowledge-center/vocabulary.md)
 * [🇸🇷 About Suriname](knowledge-center/about-suriname.md)
 
 ## Help & Instructions
@@ -68,6 +69,6 @@
 ## Legal
 
 * [Terms of Service](legal/terms-of-service.md)
-* [Imparent Loss](legal/imparent-loss.md)
+* [Impermanent Los](legal/impermanent-los.md)
 * [Disclaimer](legal/disclaimer.md)
 * [A Word from the Author](legal/a-word-from-the-author.md)
