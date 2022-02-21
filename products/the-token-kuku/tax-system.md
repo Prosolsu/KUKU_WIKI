@@ -9,11 +9,15 @@ In return we can contribute and fund our Charity Foundation.\
 We apply a 5% Tax on all Transfer & Sell actions.
 
 {% hint style="success" %}
-KUKU holders are automatically rewarded with 1% over every Transfer and Sell action.
+KUKU holders are [**Automatically Rewarded**](../../knowledge-center/the-project/use-cases/auto-reward-to-holders.md) with 1% over every Transfer and Sell action.
+{% endhint %}
+
+{% hint style="success" %}
+We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/anti-whale-function.md) built in which is currently set to 1% of the Total Supply which is 1 billion tokens
 {% endhint %}
 
 {% hint style="warning" %}
-When Selling our token on our DEX or Pancakeswap, please set the slippage tolerance to 5 or 6 %.
+When Selling our token on our DEX or Pancakeswap, please set the slippage tolerance between 5 to 6 %. (e.g slippage 5.1%)
 {% endhint %}
 
 **Our 5% Tax is divided as follows:**

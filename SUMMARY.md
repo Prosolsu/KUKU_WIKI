@@ -41,6 +41,7 @@
     * [Functions](knowledge-center/the-project/use-cases/functions.md)
     * [For Payments](knowledge-center/the-project/use-cases/for-payments.md)
     * [Burning & Minting](knowledge-center/the-project/use-cases/burning-and-minting.md)
+    * [Anti-Whale Function](knowledge-center/the-project/use-cases/anti-whale-function.md)
     * [Auto Reward to Holders](knowledge-center/the-project/use-cases/auto-reward-to-holders.md)
   * [Applications & Listings](knowledge-center/the-project/applications-and-listings.md)
   * [Eco System](knowledge-center/the-project/eco-system.md)
