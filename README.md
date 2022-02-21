@@ -18,10 +18,6 @@ The first official verified and listed cryptocurrency that stems out of "Switi S
 ****panKUKU is a Hyper Deflationary Token Running on Binance Smart Chain BEP20. \
 ****Our token was inspired by the famous Pancakeswap, but soon expanded to a much bigger project and products offerings then any other Decentralized Exchange (DEX) on the Market.
 
-{% hint style="success" %}
-No minting of new tokens and a whole lot of auto & manual burning!&#x20;
-{% endhint %}
-
 Our Platform offers the following products**:**
 
 * [x] KUKU Swap
@@ -37,3 +33,13 @@ Future Products include**:**
 * [ ] Launchpad
 * [ ] Webshop USA & Suriname
 * [ ] KUKU Play
+
+What separates us from other DEX's:
+
+* No Minting of new tokens
+* A superb Burn System (automated & manual)
+* Anti-Whale Function
+* Automatically Rewards to holders
+* An Eco System with expansive function and products
+* First real and convenient online shopping experience with Crypto
+* High level Security Infrastructure
