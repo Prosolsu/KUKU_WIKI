@@ -10,4 +10,4 @@ coverY: 0
 
 ![](<../.gitbook/assets/download (1).png>) ![](<../.gitbook/assets/download (3).png>)
 
-![](../.gitbook/assets/super+tiny+icons+whatsapp-1324450795544190261.png) ![](../.gitbook/assets/7111340.png)
+![](../.gitbook/assets/whatsapp\_edit.jpg)
