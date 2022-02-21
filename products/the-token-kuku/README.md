@@ -6,7 +6,7 @@ coverY: 0
 
 # 🪙 The Token: KUKU
 
-![](../../.gitbook/assets/bannernewlogo.png)
+![KUKU](../../.gitbook/assets/bannernewlogo.png)
 
 The first official listed cryptocurrency (token) from Suriname, that was inspired by the famous Pancakeswap (CAKE). \
 PanKUKU (KUKU) is the native token of our Decentralized Exchange.

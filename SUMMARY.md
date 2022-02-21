@@ -29,6 +29,7 @@
   * [📱 KUKU Wallet](products/future-products/kuku-wallet.md)
   * [🎮 KUKU Play](products/future-products/kuku-play/README.md)
     * [PREI](products/future-products/kuku-play/prei.md)
+    * [KOLOKU](products/future-products/kuku-play/koloku.md)
   * [🚀 Launchpad](products/future-products/launchpad.md)
   * [🔮 Predictions](products/future-products/predictions.md)
   * [🛒 Webshop](products/future-products/webshop.md)

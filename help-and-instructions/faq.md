@@ -7,3 +7,7 @@ coverY: 0
 
 # FAQ
 
+| Word         | Meaning                                                                                                                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Deflationary | A deflationary cryptocurrency is one with a depreciating supply of coins. In other words, **the number of coins in circulation decreases, making an individual coin more valuable**. |
+|              |                                                                                                                                                                                      |
