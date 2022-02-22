@@ -13,9 +13,9 @@ description: The Healthiest Exchange on Binance Smart Chain
 ****Running on Binance Smart Chain (BSC) has the biggest advantage for the lowest transaction costs.
 
 ****[**Decentralized Finance**\
-](../../knowledge-center/vocabulary.md)Connect your wallet, do your thing, disconnect! As easy as that!\
+](../../knowledge-center/glossary-and-vocab.md)Connect your wallet, do your thing, disconnect! As easy as that!\
 We don't hold your funds; you have fully 100% ownership of your crypto.
 
 **Advance Security**\
 ****Enjoy ease of mind knowing our DEX has the best Security Available.\
-The Binance Smart Chain network is appraised globally for it's outstanding [**Blockchain**](../../knowledge-center/vocabulary.md) Technology and Security
+The Binance Smart Chain network is appraised globally for it's outstanding [**Blockchain**](../../knowledge-center/glossary-and-vocab.md) Technology and Security

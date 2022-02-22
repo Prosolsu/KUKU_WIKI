@@ -38,12 +38,12 @@
 
 * [🗂 The Project](knowledge-center/the-project/README.md)
   * [Use Cases](knowledge-center/the-project/use-cases/README.md)
-    * [Functions](knowledge-center/the-project/use-cases/functions.md)
+    * [Functions](knowledge-center/the-project/use-cases/functions/README.md)
+      * [Anti-Whale](knowledge-center/the-project/use-cases/functions/anti-whale.md)
+      * [Auto Rewards](knowledge-center/the-project/use-cases/functions/auto-rewards.md)
     * [Products](knowledge-center/the-project/use-cases/products.md)
     * [Payments](knowledge-center/the-project/use-cases/payments.md)
     * [Burning & Minting](knowledge-center/the-project/use-cases/burning-and-minting.md)
-    * [Anti-Whale Function](knowledge-center/the-project/use-cases/anti-whale-function.md)
-    * [Auto Reward to Holders](knowledge-center/the-project/use-cases/auto-reward-to-holders.md)
   * [Applications & Listings](knowledge-center/the-project/applications-and-listings.md)
   * [Eco System](knowledge-center/the-project/eco-system.md)
   * [Partnerships](knowledge-center/the-project/partnerships/README.md)
@@ -58,7 +58,7 @@
 * [🛡 Security](knowledge-center/security/README.md)
   * [Audits](knowledge-center/security/audits.md)
 * [📝 Why Report](knowledge-center/why-report.md)
-* [📖 Vocabulary](knowledge-center/vocabulary.md)
+* [📖 Glossary & Vocab](knowledge-center/glossary-and-vocab.md)
 * [🇸🇷 About Suriname](knowledge-center/about-suriname.md)
 
 ## Help & Instructions

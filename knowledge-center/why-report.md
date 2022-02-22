@@ -8,3 +8,5 @@ coverY: 444.4059405940594
 
 During the startup we were confronted with multiple "Why?" questions. This lead to creating the first ever "Why Report". A report to help create awareness on a faster scale.\
 Intended for newbies, users, investors and developers.
+
+Coming Soon

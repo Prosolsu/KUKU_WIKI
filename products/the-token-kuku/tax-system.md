@@ -9,11 +9,11 @@ In return we contribute and fund our Charity Foundation.\
 We apply a 5% Tax on all Transfer & Sell actions.
 
 {% hint style="success" %}
-KUKU holders are [**Automatically Rewarded**](../../knowledge-center/the-project/use-cases/auto-reward-to-holders.md) with 1% over every Transfer and Sell action.
+KUKU holders are [**Automatically Rewarded**](../../knowledge-center/the-project/use-cases/functions/auto-rewards.md) with 1% over every Transfer and Sell action.
 {% endhint %}
 
 {% hint style="success" %}
-We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/anti-whale-function.md) built in which is currently set to 1% (10 Billion Tokens) of the Total Supply.
+We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/functions/anti-whale.md) built in which is currently set to 1% (10 Billion Tokens) of the Total Supply.
 {% endhint %}
 
 {% hint style="warning" %}
