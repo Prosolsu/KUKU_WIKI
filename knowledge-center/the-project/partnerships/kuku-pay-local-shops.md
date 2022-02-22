@@ -8,7 +8,9 @@ description: Check out these Local Stores where you purchase goods or services w
 These Local Stores already accept KUKU!
 {% endhint %}
 
-![](../../../.gitbook/assets/rsz\_prosollogo.png)
+![](../../../.gitbook/assets/prosol.png)
+
+![](../../../.gitbook/assets/food.png)
 
 {% hint style="info" %}
 The Following Local Businesses have committed to accepting KUKU as a alternative payment option for their Goods or Services in the future.
