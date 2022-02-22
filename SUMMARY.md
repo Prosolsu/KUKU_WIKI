@@ -39,7 +39,8 @@
 * [🗂 The Project](knowledge-center/the-project/README.md)
   * [Use Cases](knowledge-center/the-project/use-cases/README.md)
     * [Functions](knowledge-center/the-project/use-cases/functions.md)
-    * [For Payments](knowledge-center/the-project/use-cases/for-payments.md)
+    * [Products](knowledge-center/the-project/use-cases/products.md)
+    * [Payments](knowledge-center/the-project/use-cases/payments.md)
     * [Burning & Minting](knowledge-center/the-project/use-cases/burning-and-minting.md)
     * [Anti-Whale Function](knowledge-center/the-project/use-cases/anti-whale-function.md)
     * [Auto Reward to Holders](knowledge-center/the-project/use-cases/auto-reward-to-holders.md)
@@ -50,7 +51,7 @@
     * [KUKU Pay: Webshops](knowledge-center/the-project/partnerships/kuku-pay-webshops.md)
     * [Infrastructure](knowledge-center/the-project/partnerships/infrastructure.md)
     * [Crypto Companies](knowledge-center/the-project/partnerships/crypto-companies.md)
-  * [Contracts](knowledge-center/the-project/contracts.md)
+  * [Smart Contracts](knowledge-center/the-project/smart-contracts.md)
   * [Wallet-addresses](knowledge-center/the-project/wallet-addresses.md)
   * [Charity Foundation](knowledge-center/the-project/charity-foundation.md)
   * [Awareness & Education](knowledge-center/the-project/awareness-and-education.md)
@@ -65,7 +66,7 @@
 * [Getting Started](help-and-instructions/getting-started/README.md)
   * [Supported Wallets](help-and-instructions/getting-started/supported-wallets.md)
   * [Create a Wallet](help-and-instructions/getting-started/create-a-wallet.md)
-  * [Copy of Create a Wallet](help-and-instructions/getting-started/copy-of-create-a-wallet.md)
+  * [Import KUKU](help-and-instructions/getting-started/import-kuku.md)
 * [How To](help-and-instructions/how-to.md)
 * [FAQ](help-and-instructions/faq.md)
 * [Report Scam](help-and-instructions/report-scam.md)
@@ -73,7 +74,8 @@
 
 ## Legal
 
+* [Disclaimer](legal/disclaimer.md)
 * [Terms of Service](legal/terms-of-service.md)
 * [Impermanent Loss](legal/impermanent-loss.md)
-* [Disclaimer](legal/disclaimer.md)
+* [Cookie Tracking Policy](legal/cookie-tracking-policy.md)
 * [A Word from the Author](legal/a-word-from-the-author.md)

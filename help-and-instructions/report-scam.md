@@ -7,4 +7,9 @@ coverY: 0
 
 # Report Scam
 
-Help us try to identify as much scam and fake tokens as possible
+Help us try to identify as much scam and fake tokens as possible.\
+[**CONTACT US HERE**](contact-us.md)****
+
+**Below are 100% Scam / Fake tokens:**
+
+1. Coming Soon

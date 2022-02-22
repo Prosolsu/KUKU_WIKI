@@ -7,3 +7,5 @@ coverY: 0
 
 # Disclaimer
 
+**Are** [**Smart Contracts**](../knowledge-center/vocabulary.md) **legal?**\
+Smart contracts **are legally enforceable if they comply with contract law**.

@@ -2,5 +2,5 @@
 description: Coming Soon
 ---
 
-# Create a Wallet
+# Import KUKU
 

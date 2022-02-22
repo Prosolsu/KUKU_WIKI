@@ -12,8 +12,8 @@ description: The Healthiest Exchange on Binance Smart Chain
 **Low Fees**\
 ****Running on Binance Smart Chain (BSC) has the biggest advantage for the lowest transaction costs.
 
-**Decentralized Finance**\
-Connect your wallet, do your thing, disconnect! As easy as that!\
+****[**Decentralized Finance**\
+](../../knowledge-center/vocabulary.md)Connect your wallet, do your thing, disconnect! As easy as that!\
 We don't hold your funds; you have fully 100% ownership of your crypto.
 
 **Advance Security**\

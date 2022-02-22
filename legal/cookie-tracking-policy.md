@@ -2,5 +2,5 @@
 description: Coming Soon
 ---
 
-# Create a Wallet
+# Cookie Tracking Policy
 

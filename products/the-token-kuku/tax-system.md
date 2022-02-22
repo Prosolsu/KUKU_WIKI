@@ -13,7 +13,7 @@ KUKU holders are [**Automatically Rewarded**](../../knowledge-center/the-project
 {% endhint %}
 
 {% hint style="success" %}
-We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/anti-whale-function.md) built in which is currently set to 1% (1 Bil. Tokens) of the Total Supply.
+We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/anti-whale-function.md) built in which is currently set to 1% (10 Billion Tokens) of the Total Supply.
 {% endhint %}
 
 {% hint style="warning" %}
