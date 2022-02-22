@@ -16,7 +16,7 @@ Hyper because we automatically reward holders.
 {% endhint %}
 
 {% hint style="success" %}
-Deflationary because we don't mint new tokens and we burn massive.
+Deflationary because we don't mint new tokens and we burn massively.
 {% endhint %}
 
 {% hint style="info" %}
