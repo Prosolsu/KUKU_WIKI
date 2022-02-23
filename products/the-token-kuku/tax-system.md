@@ -4,8 +4,8 @@ description: A model created for our Charity Foundation & Auto Burn System
 
 # Tax System
 
-KUKU is a Deflationary Token, meaning we apply a Tax System to always push the price up by Burning. \
-In return we contribute and fund our Charity Foundation.\
+KUKU is a [**Deflationary** ](../../knowledge-center/glossary-and-vocab.md)Token, meaning we apply a Tax System to always push the price up by Burning. \
+In return we contribute and fund our [**Charity Foundation**](../../knowledge-center/the-project/charity-foundation.md).\
 We apply a 5% Tax on all Transfer & Sell actions.
 
 {% hint style="success" %}

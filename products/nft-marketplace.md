@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/nfts-banner.png
 coverY: 0
-description: NFT is the rhyme of this digital world
+description: Welcome to the new world
 ---
 
 # 🎭 NFT Marketplace

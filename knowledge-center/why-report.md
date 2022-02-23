@@ -1,5 +1,5 @@
 ---
-description: A new way of answering the WHY question. Help us set the trend
+description: A new way of answering the WHY question. Help us set the trend.
 cover: ../.gitbook/assets/wrong_question_header (1).jpg
 coverY: 444.4059405940594
 ---

@@ -39,7 +39,7 @@ What separates us from other DEX's:
 * No Minting of new tokens
 * A superb Burn System (automated & manual)
 * Anti-Whale Function
-* Automatically Rewards to holders
-* An Eco System with expansive function and products
-* First real and convenient online shopping experience with Crypto
-* High level Security Infrastructure
+* Automated Rewards to holders
+* An Eco System with expansive functions and products
+* First real and convenient online shopping experience with your crypto
+* High Level Security Infrastructure
