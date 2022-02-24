@@ -16,7 +16,7 @@ The first official verified and listed cryptocurrency that stems out of "Switi S
 
 **Intro**\
 ****panKUKU is a Hyper Deflationary Token Running on Binance Smart Chain BEP20. \
-****Our token was inspired by the famous Pancakeswap, but soon expanded to a much bigger project and products offerings then any other Decentralized Exchange (DEX) on the Market.
+****Our token was inspired by the famous Pancakeswap, but soon expanded to a much bigger project and products offerings than any other Decentralized Exchange (DEX) on the Market.
 
 Our Platform offers the following products**:**
 
