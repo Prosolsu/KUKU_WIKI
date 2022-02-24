@@ -8,8 +8,9 @@ coverY: 0
 # 🛡 Security
 
 Our code and contracts are fully Open Source and Verified.\
-Our Website is equipped with the highest level of Security and a "Ultimate Protection Plan" by www.godaddy.com.\
+Our Website is equipped with the highest level of Security and a "Ultimate Protection Plan" by www.godaddy.com.
 
+![Screenshot Security Overview www.pankuku.net](../../.gitbook/assets/security.png)
 
 Security advantages for using our Website / DEX
 
