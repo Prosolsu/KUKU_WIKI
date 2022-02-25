@@ -74,8 +74,11 @@
 
 ## Legal
 
-* [Disclaimer](legal/disclaimer.md)
-* [Terms of Service](legal/terms-of-service.md)
+* [Disclaimers](legal/disclaimers.md)
 * [Impermanent Loss](legal/impermanent-loss.md)
+* [Terms of Service](legal/terms-of-service.md)
+* [Terms of Use](legal/terms-of-use.md)
 * [Cookie Tracking Policy](legal/cookie-tracking-policy.md)
+* [Copyright Policy](legal/copyright-policy.md)
+* [Privacy Policy](legal/privacy-policy.md)
 * [A Word from the Author](legal/a-word-from-the-author.md)
