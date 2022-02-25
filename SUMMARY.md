@@ -59,6 +59,7 @@
   * [Audits](knowledge-center/security/audits.md)
 * [📝 Why Report](knowledge-center/why-report.md)
 * [📖 Glossary & Vocab](knowledge-center/glossary-and-vocab.md)
+* [📉 Impermanent Loss](knowledge-center/impermanent-loss.md)
 * [🇸🇷 About Suriname](knowledge-center/about-suriname.md)
 
 ## Help & Instructions
@@ -74,11 +75,10 @@
 
 ## Legal
 
-* [Disclaimers](legal/disclaimers.md)
-* [Impermanent Loss](legal/impermanent-loss.md)
-* [Terms of Service](legal/terms-of-service.md)
 * [Terms of Use](legal/terms-of-use.md)
+* [Terms of Service](legal/terms-of-service.md)
 * [Cookie Tracking Policy](legal/cookie-tracking-policy.md)
 * [Copyright Policy](legal/copyright-policy.md)
 * [Privacy Policy](legal/privacy-policy.md)
+* [Disclaimers](legal/disclaimers.md)
 * [A Word from the Author](legal/a-word-from-the-author.md)

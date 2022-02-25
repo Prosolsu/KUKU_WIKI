@@ -15,7 +15,7 @@ Enjoy **FAST**, **SAFE** and **CONVENIENT** online shopping, without the need fo
 {% endhint %}
 
 {% hint style="success" %}
-**Pay with KUKU** and benefit from site-wide **FREE SHIPPING**
+**Pay with KUKU** and benefit from site-wide **FAST &** **FREE SHIPPING**
 {% endhint %}
 
 {% hint style="success" %}
