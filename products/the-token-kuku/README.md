@@ -19,6 +19,10 @@ Hyper because we automatically reward holders.
 Deflationary because we don't mint new tokens and we burn massively.
 {% endhint %}
 
+{% hint style="success" %}
+Pankuku (KUKU) is a Utility Token used on our own Webshop.
+{% endhint %}
+
 {% hint style="info" %}
 Pankuku means pancake in our own Suriname native language.
 {% endhint %}

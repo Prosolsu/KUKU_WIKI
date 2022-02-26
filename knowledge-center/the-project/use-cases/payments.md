@@ -1,5 +1,5 @@
 ---
-description: KUKU is a Currency
+description: KUKU is a Utility Token
 ---
 
 # Payments

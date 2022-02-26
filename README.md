@@ -41,5 +41,5 @@ What separates us from other DEX's:
 * Anti-Whale Function
 * Automated Rewards to holders
 * An Eco System with expansive functions and products
-* First real and convenient online shopping experience with your crypto
+* A Utility Token to pay on our own Webshop
 * High Level Security Infrastructure
