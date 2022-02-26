@@ -4,4 +4,4 @@ description: Our Eco-System is supported by multiple high grade Internet Compani
 
 # Infrastructure
 
-![](../../../.gitbook/assets/GDDY.png) ![](../../../.gitbook/assets/infura.png)
+![](<../../../.gitbook/assets/GoDaddy-Logo (1).png>) ![](../../../.gitbook/assets/infura.png) ![](<../../../.gitbook/assets/GoDaddy-Logo (1) (1).png>)
