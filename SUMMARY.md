@@ -52,6 +52,7 @@
     * [Infrastructure](knowledge-center/the-project/partnerships/infrastructure.md)
     * [Crypto Companies](knowledge-center/the-project/partnerships/crypto-companies.md)
   * [Smart Contracts](knowledge-center/the-project/smart-contracts.md)
+  * [Logo's](knowledge-center/the-project/logos.md)
   * [Wallet-addresses](knowledge-center/the-project/wallet-addresses.md)
   * [Charity Foundation](knowledge-center/the-project/charity-foundation.md)
   * [Awareness & Education](knowledge-center/the-project/awareness-and-education.md)

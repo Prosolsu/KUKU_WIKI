@@ -1,6 +1,6 @@
 ---
 description: A Hyper Deflationary BEP20 Token Running on Binance Smart Chain
-cover: ../../.gitbook/assets/banner_kuku.jpg
+cover: ../../.gitbook/assets/banner_kuku (1).jpg
 coverY: 0
 ---
 
