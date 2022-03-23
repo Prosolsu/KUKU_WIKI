@@ -2,5 +2,5 @@
 description: Coming Soon
 ---
 
-# Smart Contracts
+# Registrations & Licenses
 
