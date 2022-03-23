@@ -4,9 +4,9 @@ description: The largest DEX in terms of products offerings
 
 # Products
 
-|                 |                 |             |
-| --------------- | --------------- | ----------- |
-| Swapping        | NFT Marketplace | Wallet      |
-| Liquidity Pools | Lottery         | Gaming      |
-| Farming         | Staking         | Launchpad   |
-| Webshop         | Utility Token   | Predictions |
+|                                                                                     |                                                                     |                                                                             |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ****[**KUKU Swap**](../../../products/the-exchange/kuku-swap.md)****                | ****[**NFT Marketplace**](../../../products/nft-marketplace.md)**** | ****[**KUKU Wallet**](../../../products/future-products/kuku-wallet.md)**** |
+| ****[**Liquidity Pools**](../../../products/the-exchange/liquidity-provider.md)**** | ****[**Lottery**](../../../products/lottery.md)****                 | ****[**KUKU Play**](../../../products/future-products/kuku-play/)****       |
+| ****[**Farming**](../../../products/the-exchange/farming.md)****                    | ****[**Staking**](../../../products/the-exchange/pools.md)****      | ****[**Launchpad**](../../../products/future-products/launchpad.md)****     |
+| ****[**Webshop**](../../../products/future-products/webshop.md)****                 | ****[**Utility Token**](payments.md)****                            | ****[**Predictions**](../../../products/future-products/predictions.md)**** |

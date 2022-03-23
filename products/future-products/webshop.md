@@ -7,7 +7,7 @@ description: The first most convenient webshop to pay with your crypto
 A very broad products offering from various top Online Shopping sites like Amazon, Walmart, Best Buy, Lowe's and Home Depot.
 
 {% hint style="success" %}
-All listed items within our webshop, either **USA** or **Suriname**, will be sold as a [**Drop Shipping Internet Service !!!**](../../knowledge-center/glossary-and-vocab.md)****
+All listed items within our webshop, either **USA** or **Suriname**, will be sold as a [**Drop Shipping Internet Service !**](../../knowledge-center/glossary-and-vocab.md)****
 {% endhint %}
 
 {% hint style="success" %}
