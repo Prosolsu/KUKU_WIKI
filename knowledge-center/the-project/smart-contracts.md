@@ -1,6 +1,10 @@
 ---
-description: Coming Soon
+description: Integrity in payment and performance
 ---
 
-# Smart Contracts
+# (Smart) Contracts
 
+| Name | Address |
+| ---- | ------- |
+|      |         |
+|      |         |

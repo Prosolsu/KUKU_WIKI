@@ -1,7 +1,7 @@
 ---
 description: Adding Liquidity is not without Risk
-cover: ../.gitbook/assets/impermanent-loss.jpg
-coverY: 511.22043795620436
+cover: ../.gitbook/assets/90dbb1b01a5d43668bbb2de6b3adf2ee.png
+coverY: -22
 ---
 
 # 📉 Impermanent Loss
