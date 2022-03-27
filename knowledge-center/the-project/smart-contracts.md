@@ -1,10 +1,17 @@
 ---
-description: Integrity in payment and performance
+description: Integrity in Payment and Performance
 ---
 
 # (Smart) Contracts
 
-| Name | Address |
-| ---- | ------- |
-|      |         |
-|      |         |
+| Name                       | Address                                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Token                      | ****[**0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538**](https://bscscan.com/address/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538#code)**** |
+| MasterChef                 | ****[**0xec59bf42688DD28720Cf810A7e2557E0BfDBa6A6**](https://bscscan.com/address/0xec59bf42688DD28720Cf810A7e2557E0BfDBa6A6#code)**** |
+| Initial Dex Offering (IDO) | ****[**0xfD902BD5766792f96136922BEbf30b65ae01Bb30**](https://bscscan.com/address/0xfD902BD5766792f96136922BEbf30b65ae01Bb30#code)**** |
+| Factory                    | ****[**0x24dF3F586b3d313A98704478f83a4315ae5b19A9**](https://bscscan.com/address/0x24dF3F586b3d313A98704478f83a4315ae5b19A9#code)**** |
+| Hash                       | 0x87d4f7d42fb9bf0310d70da4cf11d1c0076767069bd55ebdfa55de5ff5003a71                                                                    |
+| Router                     | ****[**0x24195412938290F63ac47F0130ABBdb39319168a**](https://bscscan.com/address/0x24195412938290F63ac47F0130ABBdb39319168a#code)**** |
+| BNBKUKU                    | ****[**0x9B6742066BE28C12402c892d4C7c5bd585F14Ddd**](https://bscscan.com/address/0x9B6742066BE28C12402c892d4C7c5bd585F14Ddd#code)**** |
+| BUSDKUKU                   | ****[**0xa992242749981Dd1b188AFD765D4710EEddA136e**](https://bscscan.com/address/0xa992242749981Dd1b188AFD765D4710EEddA136e#code)**** |
+| BUSDTKUKU                  | ****[**0x8460692363d3aBb6dC6feE0Eb9782909751402d6**](https://bscscan.com/address/0x8460692363d3aBb6dC6feE0Eb9782909751402d6#code)**** |
