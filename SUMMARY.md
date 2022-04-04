@@ -21,7 +21,7 @@
 * [🌐 The Exchange](products/the-exchange/README.md)
   * [🔄 KUKU Swap](products/the-exchange/kuku-swap.md)
   * [💸 Liquidity Provider](products/the-exchange/liquidity-provider.md)
-  * [👨🌾 Farming](products/the-exchange/farming.md)
+  * [👨🌾 Farms](products/the-exchange/farms.md)
   * [🥞 Pools](products/the-exchange/pools.md)
 * [🎭 NFT Marketplace](products/nft-marketplace.md)
 * [🎲 Lottery](products/lottery.md)

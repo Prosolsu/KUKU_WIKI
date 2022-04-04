@@ -1,5 +1,5 @@
 ---
-description: Coming Soon
+description: panKUKU is an officially registered company
 ---
 
 # Registrations & Licenses
@@ -13,8 +13,9 @@ admin@pankuku.net
 
 **panKUKU SURINAME**\
 part of ProSolutions Suriname N.V.\
-Dr. Axwijkstraat #50\
-Paramaribo\
+Dr. Axwijkstraat #50, Paramaribo\
 KvK #64853\
 \+597 459967 / 8707001\
 admin@prosolsu.com
+
+**panKUKU BV Netherlands (Coming Soon)**
