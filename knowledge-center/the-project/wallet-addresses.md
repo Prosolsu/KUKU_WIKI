@@ -8,9 +8,9 @@ Below addresses can also be verified within our [**Contract**](https://bscscan.c
 
 <details>
 
-<summary>TREASURY</summary>
+<summary>OWNER / TREASURY</summary>
 
-****[**0xb831468cc2e05b892d0a2f87314df319a404eb3f**](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538?a=0xb831468cc2e05b892d0a2f87314df319a404eb3f)****
+****[**0xb831468cc2e05b892d0a2f87314df319a404eb3f**](https://bscscan.com/token/0x84fd7cc4cd689fc021ee3d00759b6d255269d538?a=0xb831468cc2e05b892d0a2f87314df319a404eb3f)****
 
 </details>
 
