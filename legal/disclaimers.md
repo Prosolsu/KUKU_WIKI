@@ -5,7 +5,7 @@ description: Coming Soon
 # Disclaimers
 
 **Risk warning**\
-****Cryptocurrency trading is subject to high market risk. Don't spend more than you can afford. Please execute all trades with caution. panKUKU LLc or pabKUKU is not responsible for your trading losses.
+****Cryptocurrency trading is subject to high market risk. Don't spend more than you can afford. Please execute all trades with caution. panKUKU LLC or panKUKU in general is not responsible for your trading losses.
 
 **Are** [**Smart Contracts**](../knowledge-center/glossary-and-vocab.md) **legal?**\
 Smart contracts **are legally enforceable if they comply with contract law**.

@@ -8,7 +8,7 @@ description: These terms of use apply to the whole panKUKU website and it's page
 
 Version 1.0
 
-The panKUKU website located at "ido.pankuku.net" and "www.pankuku.net" is a copyrighted work belonging to panKUKU. Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
+The panKUKU website located at "ido.pankuku.net" and "www.pankuku.net" is a copyrighted work belonging to panKUKU LLC (panKUKU). Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
 
 All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
@@ -132,5 +132,16 @@ Company is located at the address in Section 10.8. If you are a California resid
 
 ### Contact Information
 
-Address: Paramaribo, Suriname\
-Email: prosol@prosolsu.com
+**panKUKU LLC USA**\
+30 N Gould St Ste R\
+Sheridan, WY 82801\
+Filing ID 2022-001093100\
+\+1 (276) 284-9879\
+admin@pankuku.net
+
+**panKUKU SURINAME**\
+part of ProSolutions Suriname N.V.\
+Dr. Axwijkstraat #50, Paramaribo\
+KvK #64853\
+\+597 459967 / 8707001\
+admin@prosolsu.com

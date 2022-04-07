@@ -1,5 +1,5 @@
 ---
-description: Coming Soon
+description: Our own Wallet coming soon
 ---
 
 # Import KUKU
