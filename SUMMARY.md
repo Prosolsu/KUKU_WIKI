@@ -32,7 +32,7 @@
     * [KOLOKU](products/future-products/kuku-play/koloku.md)
   * [🚀 Launchpad](products/future-products/launchpad.md)
   * [🔮 Predictions](products/future-products/predictions.md)
-  * [🛒 Webshop](products/future-products/webshop.md)
+  * [🛒 KUKU Shop](products/future-products/kuku-shop.md)
 
 ## Knowledge Center
 
@@ -89,6 +89,7 @@
   * [Cookie Tracking Policy](legal/policies/cookie-tracking-policy.md)
   * [Copyright Policy](legal/policies/copyright-policy.md)
   * [Privacy Policy](legal/policies/privacy-policy.md)
+  * [Anti-Money Laundering Policy (AML)](legal/policies/anti-money-laundering-policy-aml.md)
 * [Registrations & Licenses](legal/registrations-and-licenses.md)
 * [Disclaimers](legal/disclaimers.md)
 * [A Word from the Author](legal/a-word-from-the-author.md)

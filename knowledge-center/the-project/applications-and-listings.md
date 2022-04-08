@@ -14,6 +14,10 @@ We are listed on these **Price Charts & Tracking** platforms:
 | 4  | ****[**PooCoin**](https://poocoin.app/tokens/0x84fd7cc4cd689fc021ee3d00759b6d255269d538)****                      |
 | 5  | ****[**TheBitTimes**](https://thebittimes.com/token-KUKU-BSC-0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538.html)**** |
 
+{% hint style="success" %}
+****[**Defi Llama**](https://defillama.com/protocol/pankuku) tracks the _**Total Liquidity**_ on our DEX
+{% endhint %}
+
 We are listed on these **Ranking & Voting** platforms:
 
 | NR | Platform                                                          | NR | Platform                                                                                    |

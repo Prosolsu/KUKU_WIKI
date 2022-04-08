@@ -2,16 +2,22 @@
 description: The first most convenient webshop to pay with your crypto
 ---
 
-# 🛒 Webshop
+# 🛒 KUKU Shop
+
+We welcome you to the E-Commerce world of KUKU
+
+{% embed url="https://kukushop.net" %}
+Coming Soon
+{% endembed %}
 
 A very broad products offering from various top Online Shopping sites like Amazon, Walmart, Best Buy, Lowe's and Home Depot.
 
 {% hint style="success" %}
-All listed items within our webshop, either **USA** or **Suriname**, will be sold as a [**Drop Shipping Internet Service !**](../../knowledge-center/glossary-and-vocab.md)****
+All listed items on our webshop will be sold as a [**Drop Shipping Internet Service**](../../knowledge-center/glossary-and-vocab.md)****
 {% endhint %}
 
 {% hint style="success" %}
-Enjoy **FAST**, **SAFE** and **CONVENIENT** online shopping, without the need for registration, directly from your **Favorite Online Store**
+Enjoy **FAST**, **SAFE** and **CONVENIENT** online shopping, directly from your **Favorite Online Store**
 {% endhint %}
 
 {% hint style="success" %}
