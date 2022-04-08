@@ -26,13 +26,13 @@ When Selling KUKU on PancakeSwap DEX, please set the slippage tolerance to 15%. 
 
 **Our 5% Tax is divided as follows:**
 
-|                  Factor | % |
-| ----------------------: | - |
-|                    Team | 1 |
+| Factor                  | % |
+| ----------------------- | - |
+| Team                    | 1 |
 | Auto Rewards to Holders | 1 |
 | Auto Liquidity Provider | 1 |
-|                 Charity | 1 |
-|                    Burn | 1 |
+| Charity                 | 1 |
+| Burn                    | 1 |
 
 {% hint style="success" %}
 We re-evaluate our Tax-System every quarter to maintain a justified model of in- en outcome.

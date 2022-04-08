@@ -7,12 +7,12 @@ description: 'The mission: Binance CEX - The plan: KUKU Everywhere!'
 We are listed on these **Price Charts & Tracking** platforms:
 
 | NR | Platform                                                                                                          |
-| -: | ----------------------------------------------------------------------------------------------------------------- |
-|  1 | ****[**Nomics**](https://nomics.com/assets/kuku2-pankuku)****                                                     |
-|  2 | ****[**DexTools**](https://www.dextools.io/app/bsc/pair-explorer/0x9b6742066be28c12402c892d4c7c5bd585f14ddd)****  |
-|  3 | ****[**BoggedFinance**](https://charts.bogged.finance/?c=bsc\&t=0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)****   |
-|  4 | ****[**PooCoin**](https://poocoin.app/tokens/0x84fd7cc4cd689fc021ee3d00759b6d255269d538)****                      |
-|  5 | ****[**TheBitTimes**](https://thebittimes.com/token-KUKU-BSC-0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538.html)**** |
+| -- | ----------------------------------------------------------------------------------------------------------------- |
+| 1  | ****[**Nomics**](https://nomics.com/assets/kuku2-pankuku)****                                                     |
+| 2  | ****[**DexTools**](https://www.dextools.io/app/bsc/pair-explorer/0x9b6742066be28c12402c892d4c7c5bd585f14ddd)****  |
+| 3  | ****[**BoggedFinance**](https://charts.bogged.finance/?c=bsc\&t=0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)****   |
+| 4  | ****[**PooCoin**](https://poocoin.app/tokens/0x84fd7cc4cd689fc021ee3d00759b6d255269d538)****                      |
+| 5  | ****[**TheBitTimes**](https://thebittimes.com/token-KUKU-BSC-0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538.html)**** |
 
 We are listed on these **Ranking & Voting** platforms:
 
