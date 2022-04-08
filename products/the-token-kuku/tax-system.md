@@ -13,23 +13,27 @@ KUKU holders are [**Automatically Rewarded**](../../knowledge-center/the-project
 {% endhint %}
 
 {% hint style="success" %}
-We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/functions/anti-whale.md) built in which is currently set to 1% (10 Billion Tokens) of the Total Supply.
+We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/functions/anti-whale.md) built in which is currently set to 0.1% (1 Billion Tokens) of the Total Supply.
 {% endhint %}
 
 {% hint style="warning" %}
-When Selling our token on our DEX or Pancakeswap, please set the slippage tolerance between 5 to 6 %. (e.g slippage 5.1%)
+When Selling KUKU on our panKUKU DEX, please set the slippage tolerance to max 6%.
+{% endhint %}
+
+{% hint style="warning" %}
+When Selling KUKU on PancakeSwap DEX, please set the slippage tolerance to 15%. The Slippage is higher on PancakeSwap to encourage user to trade on our own platform.
 {% endhint %}
 
 **Our 5% Tax is divided as follows:**
 
-| Factor                  | % |
-| ----------------------- | - |
-| Team                    | 1 |
+|                  Factor | % |
+| ----------------------: | - |
+|                    Team | 1 |
 | Auto Rewards to Holders | 1 |
 | Auto Liquidity Provider | 1 |
-| Charity                 | 1 |
-| Burn                    | 1 |
+|                 Charity | 1 |
+|                    Burn | 1 |
 
 {% hint style="success" %}
-We will re-evaluate our Tax-System every quarter to maintain a justified model of in- en outcome
+We re-evaluate our Tax-System every quarter to maintain a justified model of in- en outcome.
 {% endhint %}
