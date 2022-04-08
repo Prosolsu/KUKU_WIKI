@@ -18,4 +18,4 @@ We don't hold your funds; you have fully 100% ownership of your crypto.
 
 ****[**Advance Security**](../../knowledge-center/security/)****\
 ****Enjoy ease of mind knowing our DEX has the best Security Available.\
-The Binance Smart Chain network is appraised globally for it's outstanding [**Blockchain**](../../knowledge-center/glossary-and-vocab.md) Technology and Security
+**The**[ **Binance Smart Chain**](../../knowledge-center/security/binance-smart-chain.md) network is appraised globally for it's outstanding [**Blockchain**](../../knowledge-center/glossary-and-vocab.md) Technology and Security.

@@ -1,12 +1,12 @@
 ---
-description: A Hyper Deflationary Reward Token Running on Binance Smart Chain BEP20
+description: A Hyper Deflationary Rewards Token Running on Binance Smart Chain BEP20
 cover: ../../.gitbook/assets/banner_kuku (1).jpg
 coverY: 0
 ---
 
 # 🪙 The Token: KUKU
 
-![panKUKU](../../.gitbook/assets/bannernewlogo.png)
+![KUKU](../../.gitbook/assets/bannernewlogo.png)
 
 The first official listed cryptocurrency (token) from Suriname, that was inspired by the famous Pancakeswap (CAKE). \
 PanKUKU (KUKU) is the native token of our [**Decentralized Exchange.**](../../knowledge-center/glossary-and-vocab.md)****

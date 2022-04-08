@@ -21,4 +21,4 @@ Providing liquidity can be risky!\
 Make sure you know about [**Impermanent Loss!**](../../knowledge-center/glossary-and-vocab.md)****
 {% endhint %}
 
-![Add Liquidity is risky, make sure you know about Impermanent Loss!](../../.gitbook/assets/lp.png)
+![Adding Liquidity is risky, make sure you know about Impermanent Loss!](../../.gitbook/assets/lp.png)
