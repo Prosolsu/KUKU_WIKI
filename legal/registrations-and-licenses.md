@@ -10,7 +10,7 @@ Sheridan, WY 82801\
 Filing ID 2022-001093100\
 \+1 (276) 284-9879\
 admin@pankuku.net\
-Mercury Banking USD Account
+Mercury USD Account
 
 **panKUKU SURINAME**\
 part of ProSolutions Suriname N.V.\

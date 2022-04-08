@@ -25,5 +25,5 @@ Enjoy **FAST**, **SAFE** and **CONVENIENT** online shopping, directly from your 
 {% endhint %}
 
 {% hint style="success" %}
-**Pay with KUKU** and benefit from site-wide **DISCOUNTS up to 50%**
+**Pay with KUKU** and benefit from site-wide **DISCOUNTS**
 {% endhint %}
