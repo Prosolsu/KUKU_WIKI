@@ -2,5 +2,6 @@
 description: Coming Soon
 ---
 
-# Press Releases
+# Vesting (Token Lock)
 
+Coming Soon

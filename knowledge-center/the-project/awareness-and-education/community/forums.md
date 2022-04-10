@@ -1,3 +1,7 @@
+---
+description: A Free Society of Interactions
+---
+
 # Forums
 
 We stay very active on different community websites to inform the public about KUKU.\
