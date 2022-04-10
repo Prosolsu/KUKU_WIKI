@@ -16,7 +16,8 @@ We do an **automatic** backend **Know you Custome**r [**KYC** ](../../knowledge-
 **\*** [**Wet Strafbaarstelling Money Laundering**](https://www.dna.sr/wetgeving/surinaamse-wetten/geldende-teksten-tm-2005/wet-strafbaarstelling-money-laundering/)
 
 {% hint style="info" %}
-Our **KYC & CDD** a**pplies only** on our **Webshop** ([**www.kukushop.net**](https://www.kukushop.net)), mostly due to our **FIAT integration** and **offerings of goods** from third party sellers. We are also **legally** obliged to keep **track** of all **sales** on our Webshop and who made eventual **purchases**.
+Our **KYC & CDD** a**pplies only** on our **Webshop** ([**www.kukushop.net**](https://www.kukushop.net)), mostly due to our **FIAT integration** and **offerings of goods** from **third party sellers (we don't hold stocks, rather execute a drop shipping service).**\
+****We are also **legally** obliged to keep **track** of all **sales** on our Webshop and who made eventual **purchases**.
 {% endhint %}
 
 {% hint style="info" %}
