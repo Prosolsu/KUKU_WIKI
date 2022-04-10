@@ -1,5 +1,5 @@
 ---
-description: Creating awareness and exposure
+description: Creating Awareness and Exposure
 ---
 
 # Airdrop Programs

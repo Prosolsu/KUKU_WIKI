@@ -1,7 +1,7 @@
 ---
-coverY: 0
 description: a proud product from Suriname. Get ready to Swap, Stake & Shop!
 cover: .gitbook/assets/banner_kuku (1).jpg
+coverY: 0
 ---
 
 # 🇸🇷 panKUKU
@@ -26,15 +26,15 @@ Our Platform offers the following products**:**
 
 Future Products include**:**
 
-* [ ] KUKU Wallet
-* [ ] Predictions
 * [ ] Launchpad
-* [ ] Webshop USA & Suriname
+* [ ] Predictions
 * [ ] KUKU Play
+* [ ] KUKU Shop
+* [ ] KUKU Wallet
 
 What separates us from other DEX's:
 
-* No Minting of new tokens
+* No Minting of new tokens (Capped forever)
 * A superb Burn System (automated & manual)
 * Anti-Whale Function
 * Automated Rewards to holders
