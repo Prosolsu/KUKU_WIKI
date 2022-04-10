@@ -4,7 +4,7 @@ description: Creating awareness and exposure
 
 # Airdrop Programs
 
-First Airdrop Program Launched on the **5th april until the 15th of april.**
+**First Airdrop Program** Launched on the **5th april until the 15th of april.**
 
 **Airdrop Listing Sites round 1**\
 **1.** [**Crypto Potential**](https://crypto-potential.com/post/pankuku-airdrop-program-is-live-now--)****\

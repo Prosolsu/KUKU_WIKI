@@ -1,11 +1,10 @@
----
-description: Coming Soon
----
-
 # Disclaimers
 
 **Risk warning**\
-****Cryptocurrency trading is subject to high market risk. Don't spend more than you can afford. Please execute all trades with caution. panKUKU LLC or panKUKU in general is not responsible for your trading losses.
+****Cryptocurrency trading is subject to high market risk. Don't spend more than you can afford to lose. Please execute all trades / swaps with caution. panKUKU LLC or panKUKU in general is not responsible for your trading losses.
+
+**Anyone can add a custom token into our DEX**\
+We can try to identify scam tokens, but we can't keep them from adding Liquidity with a Custom Token. Please do your own research before committing to a trade / swap.
 
 **Are** [**Smart Contracts**](../knowledge-center/glossary-and-vocab.md) **legal?**\
 Smart contracts **are legally enforceable if they comply with contract law**.
