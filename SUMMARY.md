@@ -37,6 +37,7 @@
 ## Knowledge Center
 
 * [🗂 The Project](knowledge-center/the-project/README.md)
+  * [Sales](knowledge-center/the-project/sales.md)
   * [Logo's](knowledge-center/the-project/logos.md)
   * [Use Cases](knowledge-center/the-project/use-cases/README.md)
     * [Functions](knowledge-center/the-project/use-cases/functions/README.md)
@@ -93,10 +94,10 @@
 * [Terms of Use](legal/terms-of-use.md)
 * [Terms of Service](legal/terms-of-service.md)
 * [Policies](legal/policies/README.md)
-  * [Privacy Policy](legal/policies/privacy-policy.md)
-  * [Copyright Policy](legal/policies/copyright-policy.md)
-  * [Cookie Tracking Policy](legal/policies/cookie-tracking-policy.md)
-  * [Anti-Money Laundering Policy (AML)](legal/policies/anti-money-laundering-policy-aml.md)
+  * [Privacy](legal/policies/privacy.md)
+  * [Copyright](legal/policies/copyright.md)
+  * [AML / CFT](legal/policies/aml-cft.md)
+  * [Cookie Tracking](legal/policies/cookie-tracking.md)
 * [Disclaimers](legal/disclaimers.md)
 * [Registrations & Licenses](legal/registrations-and-licenses.md)
 * [A word from the Author](legal/a-word-from-the-author.md)

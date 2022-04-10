@@ -13,7 +13,7 @@ Here you'll find everything regarding our DEX, Products and much more!\
 The first official verified and listed cryptocurrency that stems out of "Switi Sranan"!
 
 **Intro**\
-****panKUKU is a Hyper Deflationary Rewards Token Running on Binance Smart Chain BEP20. \
+****panKUKU is a Hyper Deflationary Rewards Token Running on Binance Smart Chain (BSC) BEP-20. \
 ****Our token was inspired by the famous Pancakeswap, but soon expanded to a much bigger project and products offerings than any other Decentralized Exchange (DEX) on the Market.
 
 Our Platform offers the following products**:**
@@ -26,11 +26,11 @@ Our Platform offers the following products**:**
 
 Future Products include**:**
 
-* [ ] Launchpad
-* [ ] Predictions
 * [ ] KUKU Play
 * [ ] KUKU Shop
 * [ ] KUKU Wallet
+* [ ] Predictions
+* [ ] Launchpad
 
 What separates us from other DEX's:
 
