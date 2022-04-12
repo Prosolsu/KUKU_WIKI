@@ -20,5 +20,5 @@ Security advantages for using our Website / DEX
 * Fully Decentralized
 * We don't own your crypto
 * Open Source Code
-* (Smart) Contract Verified
+* (Smart) Contracts Verified
 * Audited (Coming Soon)

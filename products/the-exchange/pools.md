@@ -8,7 +8,7 @@ _As a KUKU Holder you can stake your KUKU Tokens to earn more KUKU._
 
 **Total Value Locked (TVL)**\
 ****The TVL is calculated across all farms and pools.\
-Our [**Masterchef**](../../knowledge-center/the-project/smart-contracts.md) is funded with at least [**25%**](../the-token-kuku/token-distribution.md) of the total tokens minted. This ensures that our staking smartcontract is well funded and locked for a long term period (5+ years).
+Our [**Masterchef**](../../knowledge-center/the-project/eco-system/smart-contracts.md) is funded with at least [**25%**](../the-token-kuku/token-distribution.md) of the total tokens minted. This ensures that our staking smartcontract is well funded and locked for a long term period (5+ years).
 
 **Features**\
 ****\* Flexible Withdraw: Unstake or Harvest your Tokens Instantly and hassle free.\

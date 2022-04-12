@@ -8,7 +8,8 @@ description: Creating Awareness and Exposure
 
 **Airdrop Listing Sites round 1**\
 **1.** [**Crypto Potential**](https://crypto-potential.com/post/pankuku-airdrop-program-is-live-now--)****\
-**2.** [**Best Coinlist**](https://www.bestcoinlist.com/airdrop/pankuku/)****
+**2.** [**Best Coinlist**](https://www.bestcoinlist.com/airdrop/pankuku/)****\
+**3.** [**Airdrop Alert**](https://airdropalert.com/pankuku-airdrop)****
 
 ****\
 ****[_Twitter_ ](https://twitter.com/pankukuofficial)_announcement_:&#x20;

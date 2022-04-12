@@ -5,15 +5,15 @@ description: A model created for our Charity Foundation & Auto Burn System
 # Tax System
 
 KUKU is a [**Deflationary** ](../../knowledge-center/glossary-and-vocab.md)Token, meaning we apply a Tax System to always push the price up by Burning. \
-In return we contribute and fund our [**Charity Foundation**](../../knowledge-center/the-project/charity-foundation.md).\
+In return we contribute and fund our [**Charity Foundation**](../../knowledge-center/the-project/eco-system/charity-foundation.md).\
 We apply a 5% Tax on all Transfer & Sell actions.
 
 {% hint style="success" %}
-KUKU holders are [**Automatically Rewarded**](../../knowledge-center/the-project/use-cases/functions/auto-rewards.md) with 1% over every Transfer and Sell action.
+KUKU holders are [**Automatically Rewarded**](../../knowledge-center/the-project/eco-system/use-cases/functions/auto-rewards.md) with 1% over every Transfer and Sell action.
 {% endhint %}
 
 {% hint style="success" %}
-We have an [**Anti-Whale Function**](../../knowledge-center/the-project/use-cases/functions/anti-whale.md) built in which is currently set to 0.1% (1 Billion Tokens) of the Total Supply.
+We have an [**Anti-Whale Function**](../../knowledge-center/the-project/eco-system/use-cases/functions/anti-whale.md) built in which is currently set to 0.1% (1 Billion Tokens) of the Total Supply.
 {% endhint %}
 
 {% hint style="warning" %}

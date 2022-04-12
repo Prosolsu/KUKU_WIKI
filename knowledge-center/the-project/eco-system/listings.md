@@ -2,7 +2,7 @@
 description: 'The mission: Binance CEX - The plan: KUKU Everywhere!'
 ---
 
-# Applications & Listings
+# Listings
 
 We are listed on these **Price Charts & Tracking** platforms:
 
@@ -12,7 +12,9 @@ We are listed on these **Price Charts & Tracking** platforms:
 | 2  | ****[**DexTools**](https://www.dextools.io/app/bsc/pair-explorer/0x9b6742066be28c12402c892d4c7c5bd585f14ddd)****  |
 | 3  | ****[**BoggedFinance**](https://charts.bogged.finance/?c=bsc\&t=0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)****   |
 | 4  | ****[**PooCoin**](https://poocoin.app/tokens/0x84fd7cc4cd689fc021ee3d00759b6d255269d538)****                      |
-| 5  | ****[**TheBitTimes**](https://thebittimes.com/token-KUKU-BSC-0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538.html)**** |
+| 5  | ****[**GeckoTerminal**](https://geckoterminal.com/bsc/pools/0x880f72d967ebc1ee87c1f89a0706a4c3bfe47831)****       |
+| 6  | ****[**CoinPaprika**](https://coinpaprika.com/it/trading-view/kuku-pankuku)****                                   |
+| 7  | ****[**TheBitTimes**](https://thebittimes.com/token-KUKU-BSC-0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538.html)**** |
 
 {% hint style="success" %}
 ****[**Defi Llama**](https://defillama.com/protocol/pankuku) tracks the _**Total Liquidity**_ on our DEX
