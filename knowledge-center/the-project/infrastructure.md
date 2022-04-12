@@ -1,5 +1,5 @@
 ---
-description: Our Project is supported by multiple high grade Systems
+description: Our Project & Platform is supported by multiple high grade Systems
 ---
 
 # Infrastructure
@@ -29,3 +29,9 @@ description: Our Project is supported by multiple high grade Systems
 {% embed url="https://trustwallet.com" %}
 
 {% embed url="https://metamask.io" %}
+
+{% embed url="https://legionnetwork.io" %}
+
+{% embed url="https://www.team.finance" %}
+
+{% embed url="https://trustswap.com" %}
