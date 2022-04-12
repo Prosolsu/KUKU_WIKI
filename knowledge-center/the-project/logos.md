@@ -10,6 +10,8 @@ description: Downloadable Media and SVG link
 
 ![Logo\_Round\_PNG](../../.gitbook/assets/KUKU\_LOGO.png)
 
+![Logo\_Round\_specialTransparent](../../.gitbook/assets/SPECIAL\_TRANSPARENT.png)
+
 ![Icon\_ICO](../../.gitbook/assets/OFFICIAL.ico)
 
 ![96x96\_JPG](<../../.gitbook/assets/KUKU\_LOGO (1).png>)
