@@ -87,7 +87,10 @@
   * [Play the Lottery](help-and-instructions/how-to/play-the-lottery.md)
 * [FAQ](help-and-instructions/faq.md)
 * [Report Scam](help-and-instructions/report-scam.md)
-* [Contact us](help-and-instructions/contact-us.md)
+* [Contact us](help-and-instructions/contact-us/README.md)
+  * [Form](help-and-instructions/contact-us/form.md)
+  * [Mail](help-and-instructions/contact-us/mail.md)
+  * [Message](help-and-instructions/contact-us/message.md)
 
 ## Legal
 
