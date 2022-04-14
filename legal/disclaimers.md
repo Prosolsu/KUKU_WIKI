@@ -15,7 +15,7 @@ Smart contracts **are legally enforceable if they comply with contract law**.
 
 **Use of Names**\
 All cited **brands**, **names**, **pages** en **slogans** belong to their respected owners.\
-We do not own the rights regarding Pancakeswap (**CAKE**), Binance (**BNB**) or any other cryptocurrency which might have been mentioned in our wiki.
+We do not own the rights regarding Pancakeswap (**CAKE**), Binance (**BNB**) or any other cryptocurrencies which might have been mentioned in our wiki.
 
 **Financial Advice**\
 Straight forward: we do **NOT** give FINANCIAL ADVISE [**(DYOR)**](../knowledge-center/glossary-and-vocab.md)**!**

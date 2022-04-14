@@ -9,7 +9,7 @@ KUKU started with the idea to be a alternative payment option in our country, Su
 
 We have means to globally introduce KUKU as a digital currency for all kinds of goods and services. Our extensive business network makes this virtually possible.
 
-Countries in which we currently have leads running with commercial companies:
+Countries in which we currently have leads running with commercial internet companies:
 
 * The Netherlands (Holland)
 * Guyana

@@ -1,5 +1,5 @@
 ---
-description: Giving KUKU a voice
+description: Giving KUKU a written voice
 ---
 
 # Blogs

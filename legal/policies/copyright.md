@@ -9,7 +9,7 @@ Our Sites are owned and operated by panKUKU LLC & ProSolutions Suriname N.V. We 
 {% hint style="danger" %}
 It is **NOT allowed** to copy any intellectual properties, content or marks either of [**pankuku.net**](https://pankuku.gitbook.io/kuku\_wiki/), [**kukushop.net**](https://www.kukushop.net) or [**pankuku.gitbook.io**](https://pankuku.gitbook.io/kuku\_wiki/)**.**\
 **You may NOT copy** proprietary notices, content, lines or other articles within these sites.\
-It is **Strictly forbidden** and **Illegal** to copy any content nor partially of our Whitepaper (Wiki) at [**pankuku.gitbook.io**](https://pankuku.gitbook.io/kuku\_wiki/)\
+It is **Strictly forbidden** and **illegal** to copy any content nor partially of our Whitepaper (Wiki) at [**pankuku.gitbook.io**](https://pankuku.gitbook.io/kuku\_wiki/)\
 If notices of such acts occur we have the right to take **legal actions** either with the [**Department of Justice (USA)**](https://www.justice.gov) or [**Ministerie van Justitie en Politie (Suriname)**](http://justiceandpolice.gov.sr)****
 {% endhint %}
 
