@@ -15,3 +15,11 @@ PRFREE.org
 {% embed url="https://www.pressnews.biz/@pankuku/pankuku-a-hyper-deflationary-reward-token-6a35pywae8xd" %}
 PRESSNEWS.biz
 {% endembed %}
+
+{% embed url="https://www.pressroom.biz/@pankuku/pankuku-a-hyper-deflationary-reward-token-d87kw543y7ej" %}
+PRESSROOM.biz
+{% endembed %}
+
+{% embed url="https://freepressreleasedb.com/pr/PanKUKU-A-Hyper-Deflationary-Reward-Token-PR219528" %}
+FREEPRESSRELEASEDB.com
+{% endembed %}
