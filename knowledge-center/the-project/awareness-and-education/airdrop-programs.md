@@ -5,7 +5,7 @@ description: Creating Awareness and Exposure
 # Airdrop Programs
 
 {% hint style="success" %}
-Our Airdrop Program is funded by the [**ECO-System Reserve Address**](../../development/wallet-addresses.md)****
+Our Airdrop Program is funded by the [**ECO-System Reserve Address**](../development/wallet-addresses.md)****
 {% endhint %}
 
 **First Airdrop Program** Launched on the **5th april until the 15th of april.**\
