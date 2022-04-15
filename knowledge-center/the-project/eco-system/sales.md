@@ -25,7 +25,7 @@ Outcome:
 ****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net)_(website)._\
 Outcome:
 
-* [ ] **Ongoing**
+* [x] **Ongoing**
 
 \-------------------------------------------------------------------------\
 **\*\*\*\*\* Initial Exchange Offering (IEO) **<mark style="color:green;">**Round 3**</mark>** - Public Sale \*\*\*\*\*\***\
