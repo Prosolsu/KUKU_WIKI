@@ -4,10 +4,7 @@ description: A Free Society of Interactions
 
 # Forums
 
-We stay very active on different community websites to inform the public about KUKU.\
-At the same time we are creating awareness and contributing to educating the public about the different areas and terminologie of the blockchain & crypto world.
-
-**We are published on these Crypto Forums**
+**Check out our Threads on these Crypto Forums**
 
 {% tabs %}
 {% tab title="Bitcoin Talk" %}
@@ -26,3 +23,19 @@ At the same time we are creating awareness and contributing to educating the pub
 #### [**Topic: \[ANN\] panKUKU - A Hyper Deflationary Reward Token**](https://www.altcoinstalks.com/index.php?topic=258972)****
 {% endtab %}
 {% endtabs %}
+
+{% embed url="https://bitcointalk.org/index.php?topic=5388658.new#new" %}
+Bitcoin Talk
+{% endembed %}
+
+{% embed url="https://bitcoingarden.org/forum/index.php?topic=114876" %}
+Bitcoin Garden
+{% endembed %}
+
+{% embed url="https://bitcoinforum.com/altcoin-announcements/(ann)-pankuku-a-hyper-deflationary-reward-token/msg92397#msg92397" %}
+Bitcoin Forum
+{% endembed %}
+
+{% embed url="https://www.altcoinstalks.com/index.php?topic=258972" %}
+Altcoins Talks
+{% endembed %}
