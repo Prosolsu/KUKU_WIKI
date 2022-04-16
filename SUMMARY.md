@@ -40,6 +40,7 @@
   * [Eco-System](knowledge-center/the-project/eco-system/README.md)
     * [Sales](knowledge-center/the-project/eco-system/sales.md)
     * [Listings](knowledge-center/the-project/eco-system/listings.md)
+    * [Liquidity](knowledge-center/the-project/eco-system/liquidity.md)
     * [Use Cases](knowledge-center/the-project/eco-system/use-cases/README.md)
       * [Products](knowledge-center/the-project/eco-system/use-cases/products.md)
       * [Functions](knowledge-center/the-project/eco-system/use-cases/functions/README.md)
