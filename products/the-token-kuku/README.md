@@ -1,5 +1,5 @@
 ---
-description: A Hyper Deflationary Rewards Token Running on Binance Smart Chain BEP20
+description: A Hyper Deflationary Rewards Token Running on Binance Smart Chain BEP-20
 cover: ../../.gitbook/assets/banner_kuku (1).jpg
 coverY: 0
 ---

@@ -4,7 +4,7 @@ description: Stake LP Token to earn KUKU
 
 # 👨🌾 Farms
 
-_As a Liquidity Provider you can stake your LP Tokens to earn KUKU._
+_As a Liquidity Provider you can stake your LP Tokens to earn **KUKU**._
 
 **Features**\
 ****\* Flexible Withdraw: Unstake or Harvest your LP Tokens Instantly and hassle free.\

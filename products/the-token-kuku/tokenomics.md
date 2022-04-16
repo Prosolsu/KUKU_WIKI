@@ -7,7 +7,7 @@ description: Token Tracker panKUKU
 Name      : Pankuku\
 Ticker      : KUKU\
 Decimals : 18\
-Chain       : Binance Smart Chain (BEP20)
+Chain       : Binance Smart Chain ([**BEP-20**](../../knowledge-center/glossary-and-vocab.md))
 
 **Official Contract address**\
 [0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)

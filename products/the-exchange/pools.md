@@ -4,7 +4,7 @@ description: Enjoy High Returns with a Fixed APR of 100% when Staking KUKU
 
 # 🥞 Pools
 
-_As a KUKU Holder you can stake your KUKU Tokens to earn more KUKU._
+_As a KUKU Holder you can stake your **KUKU** Tokens to earn more **KUKU**._
 
 **Total Value Locked (TVL)**\
 ****The TVL is calculated across all farms and pools.\
