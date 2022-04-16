@@ -14,8 +14,8 @@ We honor our commitments with integrity. Acting with strong ethics is a priority
 
 ### Trust
 
-We dedicated our resources for setting up the most reliable digital networks, where Smart Contracts are Verified and Audited. Even more, every user has the opportunity to do the necessary due diligence on us. We abide by a open sourced code and a transparent team.&#x20;
+We dedicated our resources for setting up the most **Reliable Digital Networks**, where **Smart Contracts** are **Verified** and **Audited**. Even more, every user has the opportunity to do the necessary **Due Diligence** on us. We abide by a **Open Source** **Code** and a T**ransparent Team**.&#x20;
 
 ### Security
 
-We apply different Security Strategies to help improve our system over time. Any user can contribute to concerns, bugs or other issues.  Furthermore we apply high grade mechanism to keep our platform and token secure.&#x20;
+We apply different **Security Strategies** to help improve our system over time. Any user can contribute to concerns, bugs or other issues.  Furthermore we apply **High Grade** **Mechanism** to keep our platform and token secure.&#x20;

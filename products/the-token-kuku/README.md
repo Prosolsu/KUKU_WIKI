@@ -8,21 +8,21 @@ coverY: 0
 
 ![KUKU](../../.gitbook/assets/bannernewlogo.png)
 
-The first official listed cryptocurrency (token) from Suriname, that was inspired by the famous Pancakeswap (CAKE). \
+The **First Official Listed Cryptocurrency** (token) from **Suriname**, that was inspired by the famous **PancakeSwap** (CAKE). \
 PanKUKU (KUKU) is the native token of our [**Decentralized Exchange.**](../../knowledge-center/glossary-and-vocab.md)****
 
 {% hint style="success" %}
-Hyper because we automatically reward holders.
+**Hyper** because we automatically reward holders.
 {% endhint %}
 
 {% hint style="success" %}
-Deflationary because we don't mint new tokens and we burn massively.
+**Deflationary** because we don't mint new tokens and we burn massively.
 {% endhint %}
 
 {% hint style="success" %}
-Pankuku (KUKU) is a Utility Token used on our own Webshop.
+panKUKU (KUKU) is a **Utility Token** used on our own Webshop.
 {% endhint %}
 
 {% hint style="info" %}
-Pankuku means pancake in our own Suriname native language.
+Pankuku means pancake in our own **Suriname** native language.
 {% endhint %}

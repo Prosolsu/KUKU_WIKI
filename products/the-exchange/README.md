@@ -10,7 +10,7 @@ coverY: 0
 ****Instantly swap crypto tokens: no registration or account needed.
 
 **Low Fees**\
-****Running on Binance Smart Chain (BSC) has the biggest advantage for the lowest transaction costs.
+****Running on [**Binance Smart Chain (BSC)**](../../knowledge-center/security/binance-smart-chain.md) has the biggest advantage for the lowest transaction costs.
 
 ****[**Decentralized Finance**\
 ](../../knowledge-center/glossary-and-vocab.md)Connect your wallet, do your thing, disconnect! As easy as that!\
