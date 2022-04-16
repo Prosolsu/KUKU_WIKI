@@ -16,6 +16,10 @@ Our [**Masterchef**](../../knowledge-center/the-project/development/smart-contra
 \* Compound and enjoy up to 172% APR\
 \* A deposit fee of 1% (which you earn back in 3 days:smile:)
 
+{% embed url="https://pankuku.net/pools" %}
+Click the link above for Staking KUKU tokens and Earn KUKU
+{% endembed %}
+
 ![Enjoy High Returns with a Fixed APR of 100%](../../.gitbook/assets/pools.png)
 
 ![Compound your intrest and earn up to 172% APR](../../.gitbook/assets/roipools.png)

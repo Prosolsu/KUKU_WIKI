@@ -21,4 +21,8 @@ Providing liquidity can be risky!\
 Make sure you know about [**Impermanent Loss!**](../../knowledge-center/glossary-and-vocab.md)****
 {% endhint %}
 
+{% embed url="https://exchange.pankuku.net/#/pool" %}
+Click the link above for adding Liquidity and becoming a Liquidity Provider
+{% endembed %}
+
 ![Adding Liquidity is risky, make sure you know about Impermanent Loss!](../../.gitbook/assets/lp.png)

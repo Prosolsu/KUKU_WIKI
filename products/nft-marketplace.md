@@ -28,3 +28,8 @@ PNG, GIF, WEBP, MP4 & MP3
 **List in Bundles (Coming Soon)**\
 ****Our NFT marketplace allows you to list bundles of NFT tokens in the platform, thereby eliminating the need for listing one by one.
 
+{% embed url="https://nft.pankuku.net/nft" %}
+Click the link above for entering the NFT Marketplace
+{% endembed %}
+
+![](../.gitbook/assets/nftmarketplace.png)

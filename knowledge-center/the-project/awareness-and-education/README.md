@@ -1,5 +1,5 @@
 ---
-description: Our way of merging Marketing & Education into one plan
+description: Our way of merging "Marketing" & "Schooling" into one plan
 ---
 
 # Awareness & Education
