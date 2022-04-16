@@ -1,5 +1,5 @@
 ---
-description: Coming Soon
+description: Instructions regarding our Products & Services
 ---
 
 # How To
