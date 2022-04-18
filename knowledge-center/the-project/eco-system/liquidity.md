@@ -22,6 +22,6 @@ We will add **Liquidity** into the following **pairs**:
 {% endhint %}
 
 {% hint style="success" %}
-**90%** of all **funds raised** in the [**IEO**](listings.md) **** will be [**LOCKED**](../development/vesting-token-lock.md) **** for a period of **3 years**\
-****_To give a extra insurance not to rug-pull_ :smile:__
+<mark style="color:green;">**90%**</mark> of all **funds raised** in the [**IEO**](listings.md) **** will be [**LOCKED**](../development/vesting-token-lock.md) **** for a period of <mark style="color:green;"></mark> <mark style="color:green;"></mark><mark style="color:green;">**5 years**</mark>\
+_To give a **extra insurance**  **not to rug-pull**_ :smile:_****_
 {% endhint %}
