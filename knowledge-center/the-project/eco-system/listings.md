@@ -33,6 +33,6 @@ We are listed on these **Ranking & Voting** platforms:
 | 7  | ****[**WatcherGuru**](https://watcher.guru/coin/pankuku)****                                | 19 | [**CoinsGods**](https://coinsgods.com/coin/4748)****                       |
 | 8  | ****[**CoinMooner**](https://coinmooner.com/coin/14060)****                                 | 20 | [**CoinRanking**](https://coinranking.com/coin/1uxgo8EkH+pankuku-kuku)**** |
 | 9  | [**CoinAlpha**](https://coinalpha.app/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)**** | 21 | [**FreshCoins**](https://www.freshcoins.io/coins/pankuku)****              |
-| 10 | [**NextCoin**](https://nextcoin.us/coin/pankuku/)****                                       | 22 | ****                                                                       |
+| 10 | [**NextCoin**](https://nextcoin.us/coin/pankuku/)****                                       | 22 | ****[**CoinBoom**](https://coinboom.net/coin/pankuku-1256)****             |
 | 11 | ****[**CoinCatapult**](https://coincatapult.com/coin/pankuku-kuku)****                      | 23 |                                                                            |
 | 12 | [**CryptoNextGem**](https://cryptonextgem.com/introduction-about-pankuku-token/)****        | 24 | ****                                                                       |
