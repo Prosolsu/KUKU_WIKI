@@ -14,10 +14,10 @@ Furthermore, **staking models are more environmentally friendly** and **support 
 _**BSC Advantages**_ :arrow\_double\_down:_****_
 
 **Transaction Speed**\
-****BSC is currently one of the fastest smart contract platforms, contributing to its fast growth. Blocks are generated every three seconds **compared** to **Ethereum’s** 13 seconds, making it at least **four times faster**.
+****BSC is currently one of the **fastest smart contract platforms**, contributing to its fast growth. Blocks are generated every three seconds **compared** to **Ethereum’s** 13 seconds, making it at least **four times faster**.
 
 **Low Gas Fees**\
-It currently costs an average of **5 Gwei** to process a transaction on **BSC**, which is far cheaper than the **40 Gwei** charged on **Ethereum**. That is an **8x cheaper** price tag to run a dApp on BSC than running the same app on Ethereum.&#x20;
+It currently costs an average of **5** [**Gwei**](../glossary-and-vocab.md) to process a transaction on **BSC**, which is far cheaper than the **40** [**Gwei**](../glossary-and-vocab.md) charged on **Ethereum**. That is an **8x cheaper** price tag to run a dApp on BSC than running the same app on Ethereum.&#x20;
 
 **Cross-Chain Compatibility** \
 Not only is BSC **compatible** with Ethereum virtual machine (**EVM**), it also supports pegged coins from several other blockchains allowing users to create several tokens to use on the network. Cross-chain compatibility increases token liquidity, utility, and value.&#x20;

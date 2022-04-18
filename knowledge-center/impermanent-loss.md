@@ -15,5 +15,5 @@ All rights in this article belong to the respected author(s) - Credits to Binanc
 Or check out "Trust Wallet's" Community outstanding Explanation
 
 {% embed url="https://community.trustwallet.com/t/writing-example-what-is-impermanent-loss/78211" %}
-All rights in this article belong to the respected author(s) - Credits to Binance
+All rights in this article belong to the respected author(s) - Credits to Trust Wallet
 {% endembed %}
