@@ -1,5 +1,5 @@
 ---
-description: For general Inquiries
+description: For General Inquiries
 ---
 
 # Form
