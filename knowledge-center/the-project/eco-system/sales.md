@@ -20,7 +20,7 @@ Outcome:
 
 \------------------------------------------------------------------------\
 **\*\*\*\*\* Initial DEX Offering (IDO) **<mark style="color:green;">**Round 2**</mark>** - Public Sale \*\*\*\*\*\***\
-****:date: <mark style="color:yellow;">**FEB 22 - APRIL 22 2021**</mark>\
+****:date: <mark style="color:yellow;">**FEB 22 - APRIL 22 2022**</mark>\
 **Allocation 100 billion tokens **<mark style="color:red;">**(5%)**</mark>** - Price **<mark style="color:red;">**$0.0001**</mark>** per KUKU** \
 ****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net)_(website)._\
 Outcome:
@@ -28,7 +28,7 @@ Outcome:
 * [x] **Ongoing**
 
 **\*\*\*\*\* Initial DEX Offering (IDO) **<mark style="color:green;">**Round 2**</mark>** - Public Sale \*\*\*\*\*\***\
-****:date: <mark style="color:yellow;">**MAY 8 - MAY 15 2021**</mark>\
+****:date: <mark style="color:yellow;">**MAY 8 - MAY 15 2022**</mark>\
 **Allocation 100 billion tokens **<mark style="color:red;">**(5%)**</mark>** - Price **<mark style="color:red;">**$0.0001**</mark>** per KUKU** \
 ****_Intended for everyone, through_ [**PinkSale**](https://www.pinksale.finance/#/launchpads?chain=BSC)\
 Outcome:
