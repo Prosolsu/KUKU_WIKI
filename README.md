@@ -8,12 +8,12 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to the our wiki, let's call it whitepaper 2.0!\
-Here you'll find everything regarding our DEX, Products and much more!\
-The first official verified and listed cryptocurrency that stems out of "Switi Sranan"!
+Welcome to the our wiki, let's call it **whitepaper 2.0**!\
+Here you'll find everything regarding our **DEX**, Products and much more!\
+The **first** official **verified** and **listed** cryptocurrency that stems out of "**Switi Sranan**"!
 
 **Intro**\
-****panKUKU is a Hyper Deflationary Rewards Token Running on Binance Smart Chain (BSC) BEP-20. \
+**panKUKU is a Hyper Deflationary Rewards Token Running on Binance Smart Chain (BSC)** **BEP-20**. \
 ****Our token was inspired by the famous Pancakeswap, but soon expanded to a much bigger project and products offerings than any other Decentralized Exchange (DEX) on the Market.
 
 **Our Platform offers the following products:**

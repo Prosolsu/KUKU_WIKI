@@ -8,13 +8,13 @@ coverY: 0
 
 ## Integrity
 
-We honor our commitments with integrity. Acting with strong ethics is a priority for everyone representing the organization as well as the company's behavior as a whole.
+We honor our commitments with integrity. Acting with **strong ethics** is a priority for everyone representing the organization as well as the company's behavior as a whole.
 
 ## Reliability
 
 ### Trust
 
-We dedicated our resources for setting up the most **Reliable Digital Networks**, where **Smart Contracts** are **Verified** and **Audited**. Even more, every user has the opportunity to do the necessary **Due Diligence** on us. We abide by a **Open Source** **Code** and a T**ransparent Team**.&#x20;
+We dedicated our resources for setting up the most **Reliable Digital Networks**, where **Smart Contracts** are **Verified** and **Audited**. Even more, every user has the opportunity to do the necessary **Due Diligence** on us. We abide by a **Open Source** **Code** and a **Transparent Team**.&#x20;
 
 ### Security
 

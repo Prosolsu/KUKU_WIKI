@@ -8,8 +8,8 @@ coverY: -248.71287128712873
 
 ## Our Mission
 
-Is creating an everlasting crypto Eco-System by delivering and ensuring Trust, Dedication & Quality. \
-We aim to provide a Structural **Social-Economic Environment** through a legitimate **Payment & Charity System** in Suriname and the Region.\
+Is creating an everlasting crypto **Eco-System** by delivering and ensuring **Trust**, **Dedication** & **Quality**. \
+We aim to provide a Structural **Social-Economic Environment** through a legitimate **Payment & Charity System** in **Suriname** and the **Region**.\
 Furthermore contributing to **Crypto Awareness** and pushing the boundaries of cryptocurrencies as a **Payment option** **in-Store and Online**.
 
 ## Our Vision

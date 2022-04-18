@@ -1,5 +1,5 @@
 ---
-description: It's not just a Map. It's a Compass.
+description: It's not just a Map, it's a Compass.
 cover: ../.gitbook/assets/compass.header.jpg
 coverY: -39.35767326732673
 ---
