@@ -4,12 +4,12 @@ cover: ../../.gitbook/assets/banner_kuku (1).jpg
 coverY: 0
 ---
 
-# 🪙 The Token: KUKU
+# 🪙 The KUKU Token
 
 ![KUKU](../../.gitbook/assets/bannernewlogo.png)
 
 The **First Official Listed Cryptocurrency** (token) from **Suriname**, that was inspired by the famous **PancakeSwap** (CAKE). \
-PanKUKU (KUKU) is the native token of our [**Decentralized Exchange.**](../../knowledge-center/glossary-and-vocab.md)****
+**PanKUKU (KUKU)** is the native token of our [**Decentralized Exchange.**](../../knowledge-center/glossary-and-vocab.md)****
 
 {% hint style="success" %}
 **Hyper** because we automatically reward holders.
@@ -20,9 +20,9 @@ PanKUKU (KUKU) is the native token of our [**Decentralized Exchange.**](../../kn
 {% endhint %}
 
 {% hint style="success" %}
-panKUKU (KUKU) is a **Utility Token** used on our own Webshop.
+**panKUKU (KUKU)** is a **Utility Token** used on our own **Webshop**.
 {% endhint %}
 
 {% hint style="info" %}
-Pankuku means pancake in our own **Suriname** native language.
+**Pankuku** means **pancake** in our own **Suriname** native language.
 {% endhint %}

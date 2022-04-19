@@ -1,5 +1,5 @@
 ---
-description: Enter the expansive digital world of KUKU
+description: Enter the Expansive Digital world of KUKU
 ---
 
 # Use Cases

@@ -12,12 +12,12 @@
 
 ## Products
 
-* [🪙 The Token: KUKU](products/the-token-kuku/README.md)
-  * [Tokenomics](products/the-token-kuku/tokenomics.md)
-  * [Token Distribution](products/the-token-kuku/token-distribution.md)
-  * [Tax System](products/the-token-kuku/tax-system.md)
-  * [Minting Policy](products/the-token-kuku/minting-policy.md)
-  * [Burning Policy](products/the-token-kuku/burning-policy.md)
+* [🪙 The KUKU Token](products/the-kuku-token/README.md)
+  * [Tokenomics](products/the-kuku-token/tokenomics.md)
+  * [Token Distribution](products/the-kuku-token/token-distribution.md)
+  * [Tax System](products/the-kuku-token/tax-system.md)
+  * [Minting Policy](products/the-kuku-token/minting-policy.md)
+  * [Burning Policy](products/the-kuku-token/burning-policy.md)
 * [🌐 The Exchange](products/the-exchange/README.md)
   * [🔄 KUKU Swap](products/the-exchange/kuku-swap.md)
   * [💸 Liquidity Provider](products/the-exchange/liquidity-provider.md)

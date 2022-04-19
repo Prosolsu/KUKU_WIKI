@@ -1,5 +1,5 @@
 ---
-description: Re-writable code within our Contract
+description: Re-writable Code within our Contract
 ---
 
 # Functions

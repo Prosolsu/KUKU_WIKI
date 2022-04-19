@@ -6,5 +6,5 @@ description: The best of both functions created within our contract
 
 We keep it simple:
 
-1. We do [**NOT** ](../../../../products/the-token-kuku/minting-policy.md)mint new tokens.
-2. We burn a lot. Check [**here.**](../../../../products/the-token-kuku/burning-policy.md)****
+1. We do [**NOT** ](../../../../products/the-kuku-token/minting-policy.md)mint new tokens.
+2. We burn a lot. Check [**here.**](../../../../products/the-kuku-token/burning-policy.md)****

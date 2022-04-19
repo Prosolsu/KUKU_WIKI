@@ -8,6 +8,20 @@ description: Check out these Local Stores where you purchase goods or services w
 These Local Stores already accept KUKU!
 {% endhint %}
 
+|                                                   |   |   |
+| ------------------------------------------------- | - | - |
+| ![](<../../../../.gitbook/assets/image (22).png>) |   |   |
+| ![](<../../../../.gitbook/assets/image (24).png>) |   |   |
+| ![](<../../../../.gitbook/assets/image (29).png>) |   |   |
+|                                                   |   |   |
+|                                                   |   |   |
+|                                                   |   |   |
+|                                                   |   |   |
+|                                                   |   |   |
+|                                                   |   |   |
+|                                                   |   |   |
+|                                                   |   |   |
+
 ![ProSolutions](../../../../.gitbook/assets/prosol.png) ![Food for every Mood](../../../../.gitbook/assets/food.png) ![Fowru Basi](../../../../.gitbook/assets/fowrubasi.png) ![Centaur Security](../../../../.gitbook/assets/centaur.png) ![DeMarkt](../../../../.gitbook/assets/demarkt.png)
 
 {% hint style="info" %}

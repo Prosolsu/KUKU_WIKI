@@ -1,6 +1,6 @@
 ---
-description: An evolution of opportunities made real
+description: An Evolution of Opportunities made real
 ---
 
-# Eco System
+# Eco-System
 
