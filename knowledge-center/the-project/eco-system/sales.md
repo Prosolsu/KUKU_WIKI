@@ -30,7 +30,7 @@ Outcome:
 **\*\*\*\*\* Initial DEX Offering (IDO) **<mark style="color:green;">**Round 2**</mark>** - Public Sale \*\*\*\*\*\***\
 ****:date: <mark style="color:yellow;">**MAY 8 - MAY 15 2022**</mark>\
 **Allocation 100 billion tokens **<mark style="color:red;">**(5%)**</mark>** - Price **<mark style="color:red;">**$0.0001**</mark>** per KUKU** \
-****_Intended for everyone, through_ [**PinkSale**](https://www.pinksale.finance/#/launchpads?chain=BSC)\
+****_Intended for everyone, through_ [**PinkSale**](https://www.pinksale.finance/#/launchpads?chain=BSC) **and** [**Unicrypt**](https://app.unicrypt.network)\
 Outcome:
 
 * [x] **Planned**
