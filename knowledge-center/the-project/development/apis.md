@@ -4,20 +4,10 @@ description: Application Programming Interfaces
 
 # API's
 
-{% swagger method="get" path="" baseUrl="https://api.pankuku.net/api/getTokenPrice" summary="" %}
-{% swagger-description %}
+{% embed url="https://api.pankuku.net/api/getTokenPrice" %}
+Get Token Price from panKUKU DEX
+{% endembed %}
 
-{% endswagger-description %}
-
-{% swagger-parameter in="path" required="false" %}
-
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="" %}
-```javascript
-{
-    // Response
-}
-```
-{% endswagger-response %}
-{% endswagger %}
+{% embed url="https://api.pankuku.net/api/gettotallocked" %}
+Total Locked Value on panKUKU DEX
+{% endembed %}
