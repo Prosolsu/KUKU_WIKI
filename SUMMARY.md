@@ -53,6 +53,7 @@
       * [KUKU Pay: Webshops](knowledge-center/the-project/eco-system/partnerships/kuku-pay-webshops.md)
       * [Crypto Companies](knowledge-center/the-project/eco-system/partnerships/crypto-companies.md)
   * [Development](knowledge-center/the-project/development/README.md)
+    * [API's](knowledge-center/the-project/development/apis.md)
     * [Logo's](knowledge-center/the-project/development/logos.md)
     * [Infrastructure](knowledge-center/the-project/development/infrastructure.md)
     * [Smart Contracts](knowledge-center/the-project/development/smart-contracts.md)
