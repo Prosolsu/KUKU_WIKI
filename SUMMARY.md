@@ -71,7 +71,7 @@
   * [Audits](knowledge-center/security/audits/README.md)
     * [Free Audits](knowledge-center/security/audits/free-audits.md)
     * [Paid Audits](knowledge-center/security/audits/paid-audits.md)
-    * [Team Audits](knowledge-center/security/audits/team-audits.md)
+    * [Team Audits (KYC)](knowledge-center/security/audits/team-audits-kyc.md)
   * [Binance Smart Chain](knowledge-center/security/binance-smart-chain.md)
 * [📝 Why Report](knowledge-center/why-report.md)
 * [📖 Glossary & Vocab](knowledge-center/glossary-and-vocab.md)

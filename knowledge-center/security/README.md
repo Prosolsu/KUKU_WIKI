@@ -7,7 +7,7 @@ coverY: 0
 
 # 🛡 Security
 
-Our code and contracts are fully Open Source and Verified.\
+Our code and contracts are fully Audited, Open Source and Verified.\
 Our Website is equipped with the highest level of Security and a "Ultimate Protection Plan" by www.godaddy.com.
 
 ![](<../../.gitbook/assets/contractverified (1).png>) ![](../../.gitbook/assets/security.png)
@@ -21,4 +21,4 @@ Security advantages for using our Website / DEX
 * We don't own your crypto
 * Open Source Code
 * Smart Contracts Verified
-* Audited (Coming Soon)
+* Audited
