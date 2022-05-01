@@ -22,13 +22,13 @@ Outcome:
 **\*\*\*\*\* **<mark style="color:green;">**Round 2**</mark>** -  Public IDO Sale - Non Whitelisted \*\*\*\*\*\***\
 ****:date: <mark style="color:yellow;">**FEB 22 - MAY 22 2022**</mark> <img src="../../../.gitbook/assets/image (28).png" alt="" data-size="line">****\
 **Allocation 100 billion tokens **<mark style="color:red;">**(3%)**</mark>** - Price **<mark style="color:red;">**$0.00008**</mark>** per KUKU** \
-****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net)__<img src="../../../.gitbook/assets/image (15).png" alt="" data-size="line">_(website)._\
+****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net)__<img src="../../../.gitbook/assets/image (15) (1).png" alt="" data-size="line">_(website)._\
 Outcome:
 
 * [x] **Ongoing**
 
 **\*\*\*\*\* **<mark style="color:green;">**Round 2**</mark>** -  Public IDO Sale - Non Whitelisted \*\*\*\*\*\***\
-****:date: <mark style="color:yellow;">**MAY 8 - MAY 15 2022**</mark> <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line">****\
+****:date: <mark style="color:yellow;">**MAY 8 - MAY 15 2022**</mark> <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line"> <img src="../../../.gitbook/assets/image (16).png" alt="" data-size="line">****\
 **Allocation 100 billion tokens **<mark style="color:red;">**(5%)**</mark>** - Price **<mark style="color:red;">**$0.00008**</mark>** per KUKU** \
 ****_Intended for everyone, through_
 
@@ -37,7 +37,7 @@ Outcome:
    \* Allocation 1%\
    \* Listing on **Biswap (WBNB/KUKU)**\
    \* Liquidity Locked **70%** (**27 Years**)
-2. [**Unicrypt**](https://app.unicrypt.network/amm/pancake-v2/ilo/0x44100cB13C06109d3F79183277b0d62426f01bea) **** \
+2. [**Unicrypt**](https://app.unicrypt.network/amm/pancake-v2/ilo/0x44100cB13C06109d3F79183277b0d62426f01bea) **** <img src="../../../.gitbook/assets/image (15).png" alt="" data-size="line">****\
    ****\* **Audit** & **KYC** badge\
    \* Allocation 1%\
    \* Listing on **Pancakeswap (WETH/KUKU)**\
