@@ -10,7 +10,7 @@ We welcome you to the E-Commerce world of KUKU
 Coming Soon
 {% endembed %}
 
-A very broad products offering from various top Online Shopping sites like Amazon, Walmart, Best Buy, Lowe's and Home Depot.
+A very broad offering of products and digital gift-cards from various top Online Shopping sites like Amazon, Walmart, Best Buy, Lowe's and Home Depot.
 
 {% hint style="success" %}
 All listed items on our webshop will be sold as a [**Drop Shipping Internet Service**](../../knowledge-center/glossary-and-vocab.md)****

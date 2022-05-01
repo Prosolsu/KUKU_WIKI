@@ -25,7 +25,7 @@ When Selling **KUKU** on our **DEX**, please set the [**Slippage** ](../../knowl
 {% endhint %}
 
 {% hint style="warning" %}
-When Selling **KUKU** on **PancakeSwap DEX**, please set the [**Slippage**](../../knowledge-center/glossary-and-vocab.md) **** tolerance to **15%**. The Slippage is higher on PancakeSwap to encourage user to trade on our own platform.
+When Selling **KUKU** on **PancakeSwap DEX**, please set the [**Slippage**](../../knowledge-center/glossary-and-vocab.md) **** tolerance to max **15%**. The Slippage is higher on PancakeSwap to encourage user to trade on our own platform.
 {% endhint %}
 
 **Our 5% Tax is divided as follows:**

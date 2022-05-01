@@ -14,7 +14,7 @@ We honor our commitments with integrity. Acting with **strong ethics** is a prio
 
 ### Trust
 
-We dedicated our resources for setting up the most **Reliable Digital Networks**, where **Smart Contracts** are **Verified** and **Audited**. Even more, every user has the opportunity to do the necessary **Due Diligence** on us. We abide by a **Open Source** **Code** and a **Transparent Team**.&#x20;
+We dedicated our resources for setting up the most **Reliable Digital Networks**, where **Smart Contracts** are **Verified** and **Audited**. Even more, every user has the opportunity to do the necessary **Due Diligence** on us. We abide by a **Audited Open Source** **Code** and a **Doxxed Transparent Team**.&#x20;
 
 ### Security
 
