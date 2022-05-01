@@ -4,6 +4,10 @@ description: 'The mission: Binance CEX - The plan: KUKU Everywhere!'
 
 # Listings
 
+{% embed url="https://coinmarketcap.com/currencies/pankuku" %}
+****[**Listing on CoinMarketCap**](https://coinmarketcap.com/currencies/pankuku/)****
+{% endembed %}
+
 We are listed on these **Price Charts & Tracking** platforms:
 
 | NR | Platform                                                                                                          |
