@@ -20,15 +20,15 @@ Outcome:
 
 \------------------------------------------------------------------------\
 **\*\*\*\*\* **<mark style="color:green;">**Round 2**</mark>** -  Public IDO Sale - Non Whitelisted \*\*\*\*\*\***\
-****:date: <mark style="color:yellow;">**FEB 22 - MAY 22 2022**</mark>\
+****:date: <mark style="color:yellow;">**FEB 22 - MAY 22 2022**</mark> <img src="../../../.gitbook/assets/image (28).png" alt="" data-size="line">****\
 **Allocation 100 billion tokens **<mark style="color:red;">**(3%)**</mark>** - Price **<mark style="color:red;">**$0.00008**</mark>** per KUKU** \
-****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net)_(website)._\
+****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net)__<img src="../../../.gitbook/assets/image (15).png" alt="" data-size="line">_(website)._\
 Outcome:
 
 * [x] **Ongoing**
 
 **\*\*\*\*\* **<mark style="color:green;">**Round 2**</mark>** -  Public IDO Sale - Non Whitelisted \*\*\*\*\*\***\
-****:date: <mark style="color:yellow;">**MAY 8 - MAY 15 2022**</mark>\
+****:date: <mark style="color:yellow;">**MAY 8 - MAY 15 2022**</mark> <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line">****\
 **Allocation 100 billion tokens **<mark style="color:red;">**(5%)**</mark>** - Price **<mark style="color:red;">**$0.00008**</mark>** per KUKU** \
 ****_Intended for everyone, through_
 
