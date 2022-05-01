@@ -37,7 +37,7 @@ Outcome:
    \* Allocation 1%\
    \* Listing on **Biswap (WBNB/KUKU)**\
    \* Liquidity Locked **70%** (**27 Years**)
-2. [**Unicrypt**](https://app.unicrypt.network/amm/pancake-v2/ilo/0x44100cB13C06109d3F79183277b0d62426f01bea)****\
+2. [**Unicrypt**](https://app.unicrypt.network/amm/pancake-v2/ilo/0x44100cB13C06109d3F79183277b0d62426f01bea) **** \
    ****\* **Audit** & **KYC** badge\
    \* Allocation 1%\
    \* Listing on **Pancakeswap (WETH/KUKU)**\
