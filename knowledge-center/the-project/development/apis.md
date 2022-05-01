@@ -9,5 +9,5 @@ Get Token Price from panKUKU DEX
 {% endembed %}
 
 {% embed url="https://api.pankuku.net/api/gettotallocked" %}
-Get Total Locked Value on panKUKU DEX
+Total Locked Value on panKUKU DEX
 {% endembed %}
