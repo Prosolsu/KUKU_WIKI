@@ -7,9 +7,9 @@ description: Funding the Project
 **We will hold 3 Sale Offering Rounds**
 
 **\*\*\*\*\* **<mark style="color:green;">**Round 1**</mark>** - Private Seed Sale - Whitelisted \*\*\*\*\*\***\
-&#x20;**** :date: <mark style="color:yellow;">**DEC 1  2021 - JAN 1 2022**</mark>\
+&#x20;**** :date: <mark style="color:yellow;">**DEC 1  2021 - JAN 1 2022**</mark> <img src="../../../.gitbook/assets/rsz_prosollogo.png" alt="" data-size="line">****\
 **Allocation 30 billion tokens **<mark style="color:red;">**(3%)**</mark>** - Price **<mark style="color:red;">**$0.00001**</mark>** per KUKU** \
-****_Intended for friends, family and the Surinamese Public, through ProSolutions Suriname N.V._\
+****_Intended for friends, family and the Surinamese Public, through ProSolutions Suriname N.V._ <img src="../../../.gitbook/assets/image (23).png" alt="" data-size="line">\
 Outcome:
 
 * [x] **Raised** <mark style="color:red;">$160.000</mark>
