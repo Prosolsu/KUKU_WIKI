@@ -16,6 +16,12 @@ description: Our Project & Platform is supported by multiple high grade Systems
 
 {% embed url="https://defillama.com" %}
 
+{% embed url="https://coinmarketcap.com" %}
+
+{% embed url="https://www.pinksale.finance/#/" %}
+
+{% embed url="https://www.unicrypt.network" %}
+
 {% embed url="https://about.facebook.com/meta" %}
 
 {% embed url="https://www.office.com" %}
@@ -35,3 +41,5 @@ description: Our Project & Platform is supported by multiple high grade Systems
 {% embed url="https://www.team.finance" %}
 
 {% embed url="https://trustswap.com" %}
+
+{% embed url="https://starter.xyz/#/home" %}
