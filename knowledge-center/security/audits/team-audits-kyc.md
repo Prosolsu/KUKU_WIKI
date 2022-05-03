@@ -1,7 +1,6 @@
 ---
-description: Transparent and verifiable
+description: Transparent and Verifiable
 ---
 
-# Team Audits
+# Team Audits (KYC)
 
-Say hello to our Core Team Members
