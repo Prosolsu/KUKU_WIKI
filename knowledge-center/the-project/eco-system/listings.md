@@ -8,7 +8,15 @@ description: 'The mission: Binance CEX - The plan: KUKU Everywhere!'
 ****[**Listing on CoinMarketCap**](https://coinmarketcap.com/currencies/pankuku/)****
 {% endembed %}
 
-We are listed on these **Price Charts & Tracking** platforms:
+{% embed url="https://defillama.com/protocol/pankuku" %}
+****[**Listing on DefiLlama**](https://defillama.com/protocol/pankuku)****
+{% endembed %}
+
+{% hint style="success" %}
+****[**Defi Llama**](https://defillama.com/protocol/pankuku) tracks the _**Total Liquidity**_ on our DEX
+{% endhint %}
+
+We are listed on these **Price Charts & Tracking** platforms: :arrow\_double\_down:
 
 | NR | Platform                                                                                                          |
 | -- | ----------------------------------------------------------------------------------------------------------------- |
@@ -20,11 +28,7 @@ We are listed on these **Price Charts & Tracking** platforms:
 | 6  | ****[**CoinPaprika**](https://coinpaprika.com/it/trading-view/kuku-pankuku)****                                   |
 | 7  | ****[**TheBitTimes**](https://thebittimes.com/token-KUKU-BSC-0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538.html)**** |
 
-{% hint style="success" %}
-****[**Defi Llama**](https://defillama.com/protocol/pankuku) tracks the _**Total Liquidity**_ on our DEX
-{% endhint %}
-
-We are listed on these **Ranking & Voting** platforms:
+We are listed on these **Ranking & Voting** platforms: :arrow\_double\_down:
 
 | NR | Platform                                                                                    | NR | Platform                                                                   |
 | -- | ------------------------------------------------------------------------------------------- | -- | -------------------------------------------------------------------------- |
@@ -38,5 +42,5 @@ We are listed on these **Ranking & Voting** platforms:
 | 8  | ****[**CoinMooner**](https://coinmooner.com/coin/14060)****                                 | 20 | [**CoinRanking**](https://coinranking.com/coin/1uxgo8EkH+pankuku-kuku)**** |
 | 9  | [**CoinAlpha**](https://coinalpha.app/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)**** | 21 | [**FreshCoins**](https://www.freshcoins.io/coins/pankuku)****              |
 | 10 | [**NextCoin**](https://nextcoin.us/coin/pankuku/)****                                       | 22 | ****[**CoinBoom**](https://coinboom.net/coin/pankuku-1256)****             |
-| 11 | ****[**CoinCatapult**](https://coincatapult.com/coin/pankuku-kuku)****                      | 23 |                                                                            |
-| 12 | [**CryptoNextGem**](https://cryptonextgem.com/introduction-about-pankuku-token/)****        | 24 | ****                                                                       |
+| 11 | ****[**CoinCatapult**](https://coincatapult.com/coin/pankuku-kuku)****                      | 23 | ****[**CoinMetaHub**](https://coinmetahub.com/coin/alltime/view/178)****   |
+| 12 | [**CryptoNextGem**](https://cryptonextgem.com/introduction-about-pankuku-token/)****        | 24 | ****[**GoshFinder**](https://goshfinder.com/coin/pankuku)****              |
