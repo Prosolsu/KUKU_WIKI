@@ -21,14 +21,14 @@ The **first** official **verified** and **listed** **cryptocurrency** that stems
 * [x] KUKU Swap
 * [x] Farms
 * [x] Pools
-* [x] Lottery
+* [x] KUKU LOTTO
 * [x] NFT Marketplace
 
 Future Products include**:**
 
-* [ ] KUKU Play
-* [ ] KUKU Shop
-* [ ] KUKU Wallet
+* [ ] KUKU PLAY
+* [ ] KUKU SHOP
+* [ ] KUKU WALLET
 * [ ] Predictions
 * [ ] Launchpad
 
