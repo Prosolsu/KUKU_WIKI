@@ -32,15 +32,18 @@ We are listed on these **Ranking & Voting** platforms: :arrow\_double\_down:
 
 | NR | Platform                                                                                    | NR | Platform                                                                   |
 | -- | ------------------------------------------------------------------------------------------- | -- | -------------------------------------------------------------------------- |
-| 1  | ****[**CoinSniper**](https://coinsniper.net/coin/28158)****                                 | 13 | [**CoinScope**](https://www.coinscope.co/coin/kuku)****                    |
-| 2  | ****[**CoinToplist**](https://cointoplist.net/coin/pankuku)****                             | 14 | [**GemFinder**](https://gemfinder.cc/gem/8010)****                         |
-| 3  | ****[**CoinVote**](https://coinvote.cc/coin/Pankuku)****                                    | 15 | [**CoinHunt**](https://coinhunt.cc/coin/472882472)****                     |
-| 4  | ****[**MyCoinVote**](https://www.mycoinvote.com/panKUKU)****                                | 16 | [**CoinHunters**](https://coinhunters.cc/tokens/panKUKU)****               |
-| 5  | ****[**GemHunters**](https://gemhunters.net/coin/pankuku/)****                              | 17 | [**CoinDiscovery**](https://coindiscovery.app/coin/pankuku/overview)****   |
-| 6  | [**RugFreeCoins**](https://www.rugfreecoins.com/details/8453)****                           | 18 | [**Moonable**](https://www.moonable.co/coin/9erY81RFiHIlpJL90r1C)****      |
-| 7  | ****[**WatcherGuru**](https://watcher.guru/coin/pankuku)****                                | 19 | [**CoinsGods**](https://coinsgods.com/coin/4748)****                       |
-| 8  | ****[**CoinMooner**](https://coinmooner.com/coin/14060)****                                 | 20 | [**CoinRanking**](https://coinranking.com/coin/1uxgo8EkH+pankuku-kuku)**** |
-| 9  | [**CoinAlpha**](https://coinalpha.app/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)**** | 21 | [**FreshCoins**](https://www.freshcoins.io/coins/pankuku)****              |
-| 10 | [**NextCoin**](https://nextcoin.us/coin/pankuku/)****                                       | 22 | ****[**CoinBoom**](https://coinboom.net/coin/pankuku-1256)****             |
-| 11 | ****[**CoinCatapult**](https://coincatapult.com/coin/pankuku-kuku)****                      | 23 | ****[**CoinMetaHub**](https://coinmetahub.com/coin/alltime/view/178)****   |
-| 12 | [**CryptoNextGem**](https://cryptonextgem.com/introduction-about-pankuku-token/)****        | 24 | ****[**GoshFinder**](https://goshfinder.com/coin/pankuku)****              |
+| 1  | ****[**CoinSniper**](https://coinsniper.net/coin/28158)****                                 | 16 | [**CoinScope**](https://www.coinscope.co/coin/kuku)****                    |
+| 2  | ****[**CoinToplist**](https://cointoplist.net/coin/pankuku)****                             | 17 | [**GemFinder**](https://gemfinder.cc/gem/8010)****                         |
+| 3  | ****[**CoinVote**](https://coinvote.cc/coin/Pankuku)****                                    | 18 | [**CoinHunt**](https://coinhunt.cc/coin/472882472)****                     |
+| 4  | ****[**MyCoinVote**](https://www.mycoinvote.com/panKUKU)****                                | 19 | [**CoinHunters**](https://coinhunters.cc/tokens/panKUKU)****               |
+| 5  | ****[**GemHunters**](https://gemhunters.net/coin/pankuku/)****                              | 20 | [**CoinDiscovery**](https://coindiscovery.app/coin/pankuku/overview)****   |
+| 6  | [**RugFreeCoins**](https://www.rugfreecoins.com/details/8453)****                           | 21 | [**Moonable**](https://www.moonable.co/coin/9erY81RFiHIlpJL90r1C)****      |
+| 7  | ****[**WatcherGuru**](https://watcher.guru/coin/pankuku)****                                | 22 | [**CoinsGods**](https://coinsgods.com/coin/4748)****                       |
+| 8  | ****[**CoinMooner**](https://coinmooner.com/coin/14060)****                                 | 23 | [**CoinRanking**](https://coinranking.com/coin/1uxgo8EkH+pankuku-kuku)**** |
+| 9  | [**CoinAlpha**](https://coinalpha.app/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)**** | 24 | [**FreshCoins**](https://www.freshcoins.io/coins/pankuku)****              |
+| 10 | [**NextCoin**](https://nextcoin.us/coin/pankuku/)****                                       | 25 | ****[**CoinBoom**](https://coinboom.net/coin/pankuku-1256)****             |
+| 11 | ****[**CoinCatapult**](https://coincatapult.com/coin/pankuku-kuku)****                      | 26 | ****                                                                       |
+| 12 | [**HuntsCoin**](https://huntcoins.info/coin/Pankuku)****                                    | 27 | ****                                                                       |
+| 13 | [**GoshFinder**](https://goshfinder.com/coin/pankuku)****                                   | 28 |                                                                            |
+| 14 | [**CoinMetaHub**](https://coinmetahub.com/coin/alltime/view/178)****                        | 29 |                                                                            |
+| 15 | [**CryptoNextGem**](https://cryptonextgem.com/introduction-about-pankuku-token/)****        | 30 | ****                                                                       |
