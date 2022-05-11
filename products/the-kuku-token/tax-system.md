@@ -39,5 +39,5 @@ When Selling **KUKU** on **PancakeSwap DEX**, please set the [**Slippage**](../.
 | Burn                    | 1 |
 
 {% hint style="success" %}
-We re-evaluate our Tax-System every quarter to maintain a justified model of in- en outcome.
+We re-evaluate our Tax-System every quarter to maintain a justified model of in- en outcome (This is the one the reason why our code is re-writable)
 {% endhint %}

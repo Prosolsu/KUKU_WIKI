@@ -22,6 +22,8 @@ description: Our Project & Platform is supported by multiple high grade Systems
 
 {% embed url="https://www.unicrypt.network" %}
 
+{% embed url="https://dx.app/app" %}
+
 {% embed url="https://about.facebook.com/meta" %}
 
 {% embed url="https://www.office.com" %}

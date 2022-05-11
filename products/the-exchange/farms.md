@@ -8,9 +8,9 @@ _As a Liquidity Provider you can stake your LP Tokens to earn **KUKU**._
 
 **Features**\
 ****\* Flexible Withdraw: Unstake or Harvest your LP Tokens Instantly and hassle free.\
-\* A very high APR of 100%\
+\* A very high APR up to 100%\
 \* Compound and enjoy up to 172% APR\
-\* A deposit fee of 1% (which you earn back in 3 days:smile:)
+\* A deposit fee of 1%
 
 {% hint style="warning" %}
 The APR is not FIXED and will reduce over time, given the KUKU Token is Deflationary.

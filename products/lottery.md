@@ -20,7 +20,7 @@ The prizes for each lottery round come from three sources:
 
 &#x20;**3. KUKU Injections**
 
-* An average total of 14.000.000 (14 mil) KUKU from the treasury is added to lottery rounds over the course of a week. This KUKU is of course also included in rollovers!
+* An average total of 10.000.000 (10 mil) KUKU from the treasury is added to lottery rounds over the course of a week. This KUKU is of course also included in rollovers!
 
 {% hint style="success" %}
 Our Lottery is funded by the [**ECO-System Reserve Address**](../knowledge-center/the-project/development/wallet-addresses.md)****
@@ -44,3 +44,5 @@ Prize brackets don’t ‘stack’: if you match the first 3 digits in order, yo
 {% embed url="https://nft.pankuku.net/lottery" %}
 Click the link above for participating in the Lottery
 {% endembed %}
+
+![](../.gitbook/assets/lottery.png)

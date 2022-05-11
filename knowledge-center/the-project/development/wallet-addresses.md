@@ -8,7 +8,7 @@ Below addresses can also be verified within our [**Contract**](https://bscscan.c
 
 <details>
 
-<summary>OWNER / TREASURY</summary>
+<summary>OWNER / TREASURY (IDO, IEO, DEX and CEX Injector)</summary>
 
 ****[**0xb831468cc2e05b892d0a2f87314df319a404eb3f**](https://bscscan.com/token/0x84fd7cc4cd689fc021ee3d00759b6d255269d538?a=0xb831468cc2e05b892d0a2f87314df319a404eb3f)****
 
@@ -16,7 +16,7 @@ Below addresses can also be verified within our [**Contract**](https://bscscan.c
 
 <details>
 
-<summary>ECO SYSTEM</summary>
+<summary>ECO SYSTEM (LOTTERY, AIRDROP, GAMING, NFT and BURN Injector)</summary>
 
 [**0xb2235bb4eea95be069a8db995ca821bda1cb99e8**](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538?a=0xb2235bb4eea95be069a8db995ca821bda1cb99e8)****
 
@@ -24,7 +24,7 @@ Below addresses can also be verified within our [**Contract**](https://bscscan.c
 
 <details>
 
-<summary>FARMS &#x26; STAKING</summary>
+<summary>FARMS &#x26; STAKING TREASURY (MASTERCHEF Injector)</summary>
 
 ****[**0x6c4511688ab3619a93f5fd031e9621aa203eaaf9**](https://bscscan.com/address/0x6c4511688ab3619a93f5fd031e9621aa203eaaf9)****
 

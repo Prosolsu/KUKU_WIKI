@@ -14,7 +14,7 @@ The **first** official **verified** and **listed** **cryptocurrency** that stems
 
 **Intro**\
 ****_**panKUKU (KUKU) is a Hyper Deflationary Rewards Token Running on Binance Smart Chain (BSC)**  **BEP-20**._ \
-**KUKU** was inspired by the famous Pancakeswap (CAKE), but soon expanded to a much bigger project and product offerings than any other **Decentralized Exchange (DEX)** on the Market.
+**KUKU** was inspired by the famous Pancakeswap (CAKE), but soon expanded to a much bigger project and product offerings platform than any other **Decentralized Exchange (DEX)** on the Market.
 
 **Our Platform offers the following products:**
 
