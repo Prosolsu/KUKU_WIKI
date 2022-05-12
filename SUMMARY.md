@@ -56,6 +56,7 @@
   * [Development](knowledge-center/the-project/development/README.md)
     * [API's](knowledge-center/the-project/development/apis.md)
     * [Logo's](knowledge-center/the-project/development/logos.md)
+    * [Fee Structure](knowledge-center/the-project/development/fee-structure.md)
     * [Infrastructure](knowledge-center/the-project/development/infrastructure.md)
     * [Smart Contracts](knowledge-center/the-project/development/smart-contracts.md)
     * [Wallet-addresses](knowledge-center/the-project/development/wallet-addresses.md)
