@@ -8,13 +8,13 @@ description: These terms of use apply to the whole panKUKU website and it's page
 
 Version 1.0
 
-The panKUKU website located at "ido.pankuku.net" and "www.pankuku.net" is a copyrighted work belonging to panKUKU LLC (panKUKU). Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
+The panKUKU websites located at "ido.pankuku.net", "www.kukushop.net" and "www.pankuku.net" is a copyrighted work belonging to panKUKU LLC (panKUKU). Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
 
 All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
 These Terms of Use described the legally binding terms and conditions that oversee your use of the Site. BY CONNECTING TO THE SITE, YOU ARE BEING COMPLIANT TO THESE TERMS and you represent that you have the authority and capacity to enter into these Terms. YOU SHOULD BE AT LEAST 18 YEARS OF AGE TO ACCESS THE SITE. IF YOU DISAGREE WITH ALL OF THE PROVISION OF THESE TERMS, DO NOT CONNECT TO AND/OR USE THE SITE.
 
-These terms require the use of arbitration Section 10.2 on an individual basis to resolve disputes and also limit the remedies available to you in the event of a dispute. These Terms of Use were created with the help of the [Terms Of Use Generator](https://www.termsofusegenerator.net).
+These terms require the use of arbitration Section 10.2 on an individual basis to resolve disputes and also limit the remedies available to you in the event of a dispute. These Terms of Use were created with the help of the [Terms Of Use Generator](https://www.termsofusegenerator.net/).
 
 ### Access to the Site
 

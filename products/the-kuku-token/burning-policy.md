@@ -13,10 +13,10 @@ Apart from our Automated [**Burn**](../../knowledge-center/glossary-and-vocab.md
 1% on every transfer and sell action
 
 **Mass Burn Rate**\
-****Every quarter a certain % over the Circulating Supply
+****Every quarter a certain % over the Total Supply
 
 **Initial Burn**\
-****2% of the total Supply: 20 billion tokens - 20,000,000,000
+****2% of the Total Supply: 20 billion tokens - 20,000,000,000
 
 **Burn Address**\
 [0x000000000000000000000000000000000000dead](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538?a=0x000000000000000000000000000000000000dead)
