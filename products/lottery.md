@@ -6,6 +6,9 @@ coverY: -47.6980198019802
 
 # 🎲 Lottery
 
+**Smartcontract**\
+[**0x912C6C618bd21cf101Ef11479AE4b2945C0D86E0**](https://bscscan.com/address/0x912c6c618bd21cf101ef11479ae4b2945c0d86e0#code)****
+
 ### Prize Funds
 
 The prizes for each lottery round come from three sources:
