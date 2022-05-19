@@ -4,7 +4,7 @@ description: Anti-Money Laundering Policy & Combating the Financing of Terrorism
 
 # AML / CFT
 
-We do an **automatic** backend **Know you Custome**r [**KYC** ](../../knowledge-center/glossary-and-vocab.md)and **Customer Due Diligence** [**CDD** ](../../knowledge-center/glossary-and-vocab.md)on all customers (buyers) of [**KUKU Shop**](https://www.kukushop.net). You acknowledge and understand that this information could be requested by organisations as the [**IRS**](https://www.irs.gov), **** [**OFAC**](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information) and [**FinCen**](https://www.fincen.gov) in **USA**, and in **Suriname** by [**MOT**](http://www.fiusuriname.org)**,** [**CFATF** ](https://www.cfatf-gafic.org)and the [**Belastingdienst**](https://belastingdienst.sr).
+We do an **automatic** backend **Know you Custome**r [**KYC** ](../../knowledge-center/glossary-and-vocab.md)and **Customer Due Diligence** [**CDD** ](../../knowledge-center/glossary-and-vocab.md)on all customers (buyers) of [**KUKU Shop**](https://www.kukushop.net). You acknowledge and understand that this information could be requested by organisations as the [**IRS**](https://www.irs.gov/), **** [**OFAC**](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information) and [**FinCen**](https://www.fincen.gov/) in **USA**, and in **Suriname** by [**MOT**](http://www.fiusuriname.org/)**,** [**CFATF** ](https://www.cfatf-gafic.org/)and the [**Belastingdienst**](https://belastingdienst.sr/).
 
 **Regulations USA**\
 **\*** [**Bank Secrecy Act**](https://complyadvantage.com/insights/what-is-the-bank-secrecy-act/)\

@@ -4,7 +4,7 @@ description: Our own Wallet coming soon
 
 # Create a Wallet
 
-Check out these videos how to create a Wallet (our recommendation is [**Trust Wallet**](https://trustwallet.com))
+Check out these videos how to create a Wallet (our recommendation is [**Trust Wallet**](https://trustwallet.com/))
 
 {% hint style="warning" %}
 At the time of writing, Trust Wallet is only available on Mobile Devices. Watch out for scam apps especially on the Chrome App Store and other Browsers.

@@ -2,13 +2,13 @@
 description: The first most convenient webshop to pay with your crypto
 ---
 
-# 🛒 KUKU Shop
+# 🛒 KUKU SHOP
 
 We welcome you to the E-Commerce world of KUKU
 
 {% embed url="https://kukushop.net" %}
-Coming Soon
-{% endembed %}
+
+![](../../.gitbook/assets/kukushop.png)
 
 A very broad offering of products and digital gift-cards from various top Online Shopping sites like Amazon, Walmart, Best Buy, Lowe's and Home Depot.
 

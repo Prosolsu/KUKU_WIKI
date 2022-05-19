@@ -27,7 +27,7 @@ Outcome:
 **\*\*\*\*\* **<mark style="color:green;">**Round 2**</mark>** -  Public IDO Sale - Non Whitelisted \*\*\*\*\*\***\
 ****:date: <mark style="color:yellow;">**FEB 22 - MAY 22 2022**</mark> <img src="../../../.gitbook/assets/image (28).png" alt="" data-size="line">****\
 **Allocation 30 billion tokens **<mark style="color:red;">**(3%)**</mark>** - Price **<mark style="color:red;">**$0.00008**</mark>** per KUKU** \
-****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net)__<img src="../../../.gitbook/assets/image (15) (1).png" alt="" data-size="line">_(website)._\
+****_Intended for everyone, through our own_ [_**platform**_ ](https://ido.pankuku.net/)__<img src="../../../.gitbook/assets/image (15) (1).png" alt="" data-size="line">_(website)._\
 Outcome:
 
 * [x] **Ongoing**

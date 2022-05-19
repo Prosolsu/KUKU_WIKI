@@ -6,8 +6,8 @@ description: Our own Wallet coming soon
 
 **Trustwallet- Android / Apple**
 
-1. **Step 1: Copy the KUKU Contract Address from the the official** [**website**](https://pankuku.net)****\
-   **Make sure to visit** [**https://pankuku.net/**](https://pankuku.net)****\
+1. **Step 1: Copy the KUKU Contract Address from the the official** [**website**](https://pankuku.net/)****\
+   **Make sure to visit** [**https://pankuku.net/**](https://pankuku.net/)****\
    &#x20;**** ![](../../.gitbook/assets/photo\_2022-05-03\_00-38-27.jpg)****:arrow\_left::arrow\_left::arrow\_left::arrow\_left::arrow\_left:\
    \
 
