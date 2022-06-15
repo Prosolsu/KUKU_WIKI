@@ -114,5 +114,5 @@
   * [AML / CFT](legal/policies/aml-cft.md)
   * [Cookie Tracking](legal/policies/cookie-tracking.md)
 * [Disclaimers](legal/disclaimers.md)
-* [Registrations & Licenses](legal/registrations-and-licenses.md)
+* [Registrations](legal/registrations.md)
 * [A word from the Author](legal/a-word-from-the-author.md)
