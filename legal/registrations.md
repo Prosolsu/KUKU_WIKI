@@ -2,12 +2,14 @@
 description: panKUKU is an officially registered company
 ---
 
-# Registrations & Licenses
+# Registrations
 
 **panKUKU LLC USA**\
 30 N Gould St Ste R\
 Sheridan, WY 82801\
 Filing ID 2022-001093100\
+D-U-N-S® Number 118719619\
+EIN + ITIN Registered\
 \+1 (276) 284-9879\
 admin@pankuku.net\
 
