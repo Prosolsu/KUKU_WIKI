@@ -13,6 +13,4 @@ With the following info:\
 \> Phone Number\
 \> TG Handle\
 \
-If the request is approved, your mailing id will be used to grant access to:\
-\
-[https://drive.google.com/file/d/1vyBSeuEO0ePq6ilymA6o4o0yoZ2-SmtQ/view?usp=sharing](https://drive.google.com/file/d/1vyBSeuEO0ePq6ilymA6o4o0yoZ2-SmtQ/view?usp=sharing)
+If the request is approved, your mailing id will be used to grant access to the Online PDF.
