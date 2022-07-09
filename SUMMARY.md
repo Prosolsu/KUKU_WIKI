@@ -111,6 +111,7 @@
 * [Policies](legal/policies/README.md)
   * [Privacy](legal/policies/privacy.md)
   * [Copyright](legal/policies/copyright.md)
+  * [Legal Opinion Letter](legal/policies/legal-opinion-letter.md)
   * [AML / CFT](legal/policies/aml-cft.md)
   * [Cookie Tracking](legal/policies/cookie-tracking.md)
 * [Disclaimers](legal/disclaimers.md)
