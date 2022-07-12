@@ -14,7 +14,7 @@ description: Funding the Project
 &#x20;**** :date: <mark style="color:yellow;">**DEC 1  2021 - JAN 1 2022**</mark> <img src="../../../.gitbook/assets/rsz_prosollogo.png" alt="" data-size="line">****\
 **Allocation 50 billion tokens **<mark style="color:red;">**(5%)**</mark>\
 **Price 1 BNB = 8.000.000 KUKU **<mark style="color:red;">**(\~$0.00006 per KUKU)**</mark>\
-****_Intended for friends, family and the Surinamese Public, through ProSolutions Suriname N.V._ <img src="../../../.gitbook/assets/image (23).png" alt="" data-size="line">\
+****_Intended for friends, family and the Surinamese Public, through ProSolutions Suriname N.V._ <img src="../../../.gitbook/assets/image (23) (1).png" alt="" data-size="line">\
 Outcome:
 
 * [x] **Raised** <mark style="color:red;">$160.000</mark>
