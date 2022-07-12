@@ -28,7 +28,7 @@ Future Products include**:**
 
 * [ ] KUKU PLAY
 * [ ] KUKU SHOP
-* [ ] KUKU WALLET
+* [x] KUKU WALLET
 * [ ] Predictions
 * [ ] Launchpad
 
