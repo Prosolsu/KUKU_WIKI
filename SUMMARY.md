@@ -61,6 +61,7 @@
     * [Smart Contracts](knowledge-center/the-project/development/smart-contracts.md)
     * [Wallet-addresses](knowledge-center/the-project/development/wallet-addresses.md)
     * [Vesting (Token Lock)](knowledge-center/the-project/development/vesting-token-lock.md)
+  * [Meet the Team](knowledge-center/the-project/meet-the-team.md)
   * [Charity Foundation](knowledge-center/the-project/charity-foundation.md)
   * [Awareness & Education](knowledge-center/the-project/awareness-and-education/README.md)
     * [Community](knowledge-center/the-project/awareness-and-education/community/README.md)
