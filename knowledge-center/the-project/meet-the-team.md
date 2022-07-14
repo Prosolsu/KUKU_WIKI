@@ -4,6 +4,8 @@ description: Our Core Team-members
 
 # Meet the Team
 
+**Management - Based in Suriname**
+
 ![Nigel Hupsel - CEO & Founder](<../../.gitbook/assets/Untitled design (7).png>) ![Shannon Irodikromo - Content Manager](<../../.gitbook/assets/Baby\_-\_Copy-removebg-preview (2).png>) ![Ra'ouf Bafati - Community Manager](<../../.gitbook/assets/RB - Copy.jpeg>)
 
 <mark style="color:blue;">**Nigel Hupsel - CEO & Founder**</mark>\
@@ -40,6 +42,6 @@ To learn more, check out my **** [**LinkedIn**](https://www.linkedin.com/in/ra-o
 
 
 
-&#x20;Full Time Contractors
+&#x20;**Full Time Contractors - Based in India**
 
 ![WeAlwin - Code & Contract](../../.gitbook/assets/1638618320-63-wealwin-technologies.png) ![SAG IPL - Marketing](<../../.gitbook/assets/banner-sag (1).png>)
