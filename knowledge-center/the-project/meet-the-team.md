@@ -4,4 +4,8 @@ description: Our Core Team-members
 
 # Meet the Team
 
-![Nigel Hupsel](<../../.gitbook/assets/15482\_502499449791003\_1695132549\_n - Copy.png>) ![Shannon Irodikromo](<../../.gitbook/assets/Baby\_-\_Copy-removebg-preview (2).png>) ![Ra'ouf Bafati](<../../.gitbook/assets/RB - Copy.jpeg>)
+![Nigel Hupsel - CEO & Founder](<../../.gitbook/assets/Untitled design (7).png>) ![Shannon Irodikromo - Content Manager](<../../.gitbook/assets/Baby\_-\_Copy-removebg-preview (2).png>) ![Ra'ouf Bafati - Community Manager](<../../.gitbook/assets/RB - Copy.jpeg>)
+
+Contractors
+
+![](<../../.gitbook/assets/wealwin-technologies60532465770e9\_6 (1).jpg>) ![](<../../.gitbook/assets/banner-sag (1).png>)
