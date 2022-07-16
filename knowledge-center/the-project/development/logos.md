@@ -20,7 +20,7 @@ description: Downloadable Media and SVG link
 
 ![Logo\_83x83\_PNG](../../../.gitbook/assets/official\_logo\_round\_83x83.png)
 
-![](../../../.gitbook/assets/rsz\_official\_logo\_round\_32x32.png)
+![Logo32x32\_PNG](../../../.gitbook/assets/rsz\_official\_logo\_round\_32x32.png)
 
 ![Banner\_JPG](../../../.gitbook/assets/banner\_kuku.jpg)
 
