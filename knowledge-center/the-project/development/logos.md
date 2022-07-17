@@ -22,8 +22,10 @@ description: Downloadable Media and SVG link
 
 ![Logo32x32\_PNG](../../../.gitbook/assets/rsz\_official\_logo\_round\_32x32.png)
 
+![](<../../../.gitbook/assets/A HYPER DEFLATIONARY REWARDS TOKEN.png>)
+
 ![Banner\_JPG](../../../.gitbook/assets/banner\_kuku.jpg)
 
 ![](../../../.gitbook/assets/KUKUSHOP\_TRANSPARENT\_500x500\_PNG.png)
 
-![](../../../.gitbook/assets/panKUKU-removebg-500x500.png)
+![](<../../../.gitbook/assets/panKUKU-removebg-500x500 (1).png>)
