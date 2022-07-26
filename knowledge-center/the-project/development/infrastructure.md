@@ -1,5 +1,5 @@
 ---
-description: Our Project & Platform is supported by multiple high grade Systems
+description: Our Project is supported by multiple high grade platforms & systems
 ---
 
 # Infrastructure

@@ -4,9 +4,12 @@ description: The first most convenient webshop to pay with your crypto
 
 # 🛒 KUKU SHOP
 
-We welcome you to the E-Commerce world of KUKU
+WE ARE LIVE !\
+We welcome you to the E-Commerce world of KUKU !
 
 {% embed url="https://kukushop.net" %}
+[**www.kukushop.net**](https://www.kukushop.net)****
+{% endembed %}
 
 ![](../../.gitbook/assets/kukushop.png)
 

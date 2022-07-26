@@ -18,19 +18,19 @@ The **first** official **verified** and **listed** **cryptocurrency** that stems
 
 **Our Platform offers the following products:**
 
-* [x] KUKU Swap
-* [x] Farms
-* [x] Pools
+* [x] KUKU SWAP
+* [x] FARMS
+* [x] POOLS
 * [x] KUKU LOTTO
-* [x] NFT Marketplace
+* [x] NFT MARKETPLACE
 
 Future Products include**:**
 
 * [ ] KUKU PLAY
-* [ ] KUKU SHOP
-* [x] KUKU WALLET
-* [ ] Predictions
-* [ ] Launchpad
+* [x] KUKU SHOP
+* [ ] KUKU WALLET
+* [ ] PREDICTIONS
+* [ ] LAUNCHPAD
 
 **What separates us from other DEX's:**
 
@@ -41,4 +41,4 @@ Future Products include**:**
 * An Eco System with expansive functions and products
 * A Utility Token to pay on our own Webshop
 * High Level Security Infrastructure
-* Audited Contracts and a Doxxed (KYC) Team
+* Audited Contracts and a Fully Doxxed (KYC) Team

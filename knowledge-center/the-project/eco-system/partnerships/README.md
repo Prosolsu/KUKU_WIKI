@@ -1,6 +1,6 @@
 ---
-description: Coming Soon
+description: Expanding our Eco-System
 ---
 
-# Business Partners
+# Partnerships
 
