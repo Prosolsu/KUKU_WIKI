@@ -1,5 +1,5 @@
 ---
-description: a proud product from Suriname. Get ready to Swap, Stake & Shop!
+description: A proud product from Suriname. Get ready to Swap, Stake & Shop!
 cover: .gitbook/assets/banner_kuku (1).jpg
 coverY: 0
 ---
@@ -8,7 +8,7 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to the our wiki, let's call it **whitepaper 2.0**!\
+Welcome to our wiki, let's call it **whitepaper 2.0**!\
 Here you'll find everything regarding our **DEX**, Products and much more!\
 The **first** official **verified** and **listed** **cryptocurrency** that stems out of "**Switi Sranan**"!
 

@@ -1,0 +1,7 @@
+{
+  "BASE/QUOTE": {  // pair name
+    "price": 0.000085, // central price
+    "up": 0.15, // percent deviation top line 15% = 0.15
+    "down": 0.1  // percent deviation bottom line 10% = 0.1
+  }
+}

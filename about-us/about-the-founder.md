@@ -12,7 +12,7 @@ description: '"Do it right, or don''t do it at all"'
 
 Father, Husband, Entrepreneur and Business Owner. \
 Dedicated , Driven & Determined!\
-A broad background in Business Engineering, Project- en Procesmanagement, \
+A background in Business Engineering, Project- en Procesmanagement, \
 Tech Architecture & Infrastructure, E-Commerce & Logistics, \
 E-Security and in the Crypto dimension as Educator & Entrepreneur.\
 \

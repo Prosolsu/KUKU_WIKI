@@ -25,6 +25,7 @@ When Selling **KUKU** on our **DEX**, please set the [**Slippage** ](../../knowl
 {% endhint %}
 
 {% hint style="warning" %}
+Buy Fee PancakeSwap: 5%\
 When Selling **KUKU** on **PancakeSwap DEX**, please set the [**Slippage**](../../knowledge-center/glossary-and-vocab.md) **** tolerance to max **15%**. The Slippage is higher on PancakeSwap to encourage user to trade on our own platform.
 {% endhint %}
 
