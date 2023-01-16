@@ -1,5 +1,5 @@
 ---
-description: Enjoy High Returns with a Fixed APR of 100% when Staking KUKU
+description: Enjoy High Returns with a Fixed APR when Staking KUKU
 ---
 
 # 🥞 Pools
