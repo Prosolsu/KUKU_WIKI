@@ -14,11 +14,7 @@ coverY: 0
 **Smart Contract Address BEP20 & ERC20**\
 <mark style="color:blue;">**0x0293cd84D7C67D508DeA8d8Dd28a9C4E8bd1b8Fa**</mark>
 
-**BSC Explorer Link**\
-[https://bscscan.com/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa](https://bscscan.com/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa)\
 \
-**ETH Explorer Link**\
-[https://etherscan.io/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa](https://etherscan.io/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa)\
 
 
 {% hint style="success" %}

@@ -1,22 +1,19 @@
 ---
-description: Token Tracker panKUKU
+description: Token Tracker Kuku World
 ---
 
 # Tokenomics
 
-**Name**        : Pankuku\
-**Ticker**        : KUKU\
+**Name**        : Kuku World\
+**Ticker**        : WORLD\
 **Decimals**  : 18\
-**Chain**         : Binance Smart Chain ([**BEP-20**](../../knowledge-center/glossary-and-vocab.md))
+**Chain**         : Binance Smart Chain <mark style="color:yellow;">(</mark>[<mark style="color:yellow;">**BEP-20**</mark>](../../knowledge-center/glossary-and-vocab.md)<mark style="color:yellow;">)</mark> & Ethereum Blockchain <mark style="color:blue;">**(ERC-20)**</mark>
 
 **Official Contract address**\
-[**0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538**](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)
+<mark style="color:blue;">**0x0293cd84D7C67D508DeA8d8Dd28a9C4E8bd1b8Fa**</mark>
 
-**BSCscan Address link**\
-[**https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538**](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538)
-
-**BSCscan Contract link**\
-[**https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538#readContract**](https://bscscan.com/token/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538#readContract)
-
-**BSCscan Source Code link**\
-[**https://bscscan.com/address/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538#code**](https://bscscan.com/address/0x84Fd7CC4Cd689fC021eE3D00759B6D255269D538#code#L1)
+**BSC Explorer Link**\
+[https://bscscan.com/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa](https://bscscan.com/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa)\
+\
+**ETH Explorer Link**\
+[https://etherscan.io/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa](https://etherscan.io/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa)
