@@ -5,19 +5,19 @@ description: Creating Awareness and Exposure
 # Airdrop Programs
 
 {% hint style="success" %}
-Our Airdrop Program is funded by the [**ECO-System Reserve Address**](../development/wallet-addresses.md)****
+Our Airdrop Program is funded by the [**ECO-System Reserve Address**](../development/wallet-addresses.md)
 {% endhint %}
 
 **First Airdrop Program** Launched on the **5th april until the 15th of april.**\
 **Distribution after 18th of april**
 
 **Airdrop Listing Sites round 1**\
-**1.** [**Crypto Potential**](https://crypto-potential.com/post/pankuku-airdrop-program-is-live-now--)****\
-**2.** [**Best Coin list**](https://www.bestcoinlist.com/airdrop/pankuku/)****\
-**3.** [**Airdrop Alert**](https://airdropalert.com/pankuku-airdrop)****
+**1.** [**Crypto Potential**](https://crypto-potential.com/post/pankuku-airdrop-program-is-live-now--)\
+**2.** [**Best Coin list**](https://www.bestcoinlist.com/airdrop/pankuku/)\
+**3.** [**Airdrop Alert**](https://airdropalert.com/pankuku-airdrop)
 
-****\
-****[_Twitter_ ](https://twitter.com/pankukuofficial)_announcement_:&#x20;
+\
+[_Twitter_ ](https://twitter.com/pankukuofficial)_announcement_:&#x20;
 
 > 📣[#panKUKU](https://twitter.com/hashtag/panKUKU?src=hash\&ref\_src=twsrc%5Etfw) [#airdrop](https://twitter.com/hashtag/airdrop?src=hash\&ref\_src=twsrc%5Etfw) is Live Now!\
 > 🎉Total for the airdrop: 500000 KUKU\

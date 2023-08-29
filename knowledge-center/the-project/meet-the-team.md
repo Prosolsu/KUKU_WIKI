@@ -17,27 +17,27 @@ Educational background ranges from majors in Information & Business Administrati
 Furthermore a ISO 9001 Auditor, Consultant & Quality Manager.
 
 {% hint style="info" %}
-To learn more, check out my **** [**LinkedIn**](https://sr.linkedin.com/in/nigel-hupsel-5102b976)****
+To learn more, check out my [**LinkedIn**](https://sr.linkedin.com/in/nigel-hupsel-5102b976)
 {% endhint %}
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**Shannon Irodikromo - Content Manager**</mark>\
 Cherish, Love & Live. \
 Extensive experience in E-commerce Content, Logistics and Procurement.
 
 {% hint style="info" %}
-To learn more, check out my **** [**LinkedIn**](https://www.linkedin.com/in/shannon-irodikromo-6b4656236/)****
+To learn more, check out my [**LinkedIn**](https://www.linkedin.com/in/shannon-irodikromo-6b4656236/)
 {% endhint %}
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**Ra'ouf Bafati - Community Manager**</mark>\
-****Creativity, Character & Mindset. \
+Creativity, Character & Mindset. \
 Leave no question unanswered.
 
 {% hint style="info" %}
-To learn more, check out my **** [**LinkedIn**](https://www.linkedin.com/in/ra-ouf-bafati-aa4180126/)****
+To learn more, check out my [**LinkedIn**](https://www.linkedin.com/in/ra-ouf-bafati-aa4180126/)
 {% endhint %}
 
 

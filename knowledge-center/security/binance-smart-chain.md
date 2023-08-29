@@ -7,14 +7,14 @@ description: '"Build and Build"'
 _**Why we choose Binance Smart Chain (BSC)**_
 
 Far most for it's **Advance Security** advantages.\
-**BSC** uses the [**The Proof-of-Staked-Authority (PoSA)**](../glossary-and-vocab.md) **** mechanism to achieve **Network Consensus** and maintain **Blockchain Security**.\
+**BSC** uses the [**The Proof-of-Staked-Authority (PoSA)**](../glossary-and-vocab.md) mechanism to achieve **Network Consensus** and maintain **Blockchain Security**.\
 **PoSA**, as applied by the network, is a **combination** of [**Delegated-Proof-of-Stake (DPoS)**](../glossary-and-vocab.md) and [**Proof-of-Authority (PoA)**](../glossary-and-vocab.md). \
 Furthermore, **staking models are more environmentally friendly** and **support faster block generation**.&#x20;
 
-_**BSC Advantages**_ :arrow\_double\_down:_****_
+_**BSC Advantages**_ :arrow\_double\_down:
 
 **Transaction Speed**\
-****BSC is currently one of the **fastest smart contract platforms**, contributing to its fast growth. Blocks are generated every **3 seconds** **compared** to **Ethereum’s 13 seconds**, making it at least **four times faster**.
+BSC is currently one of the **fastest smart contract platforms**, contributing to its fast growth. Blocks are generated every **3 seconds** **compared** to **Ethereum’s 13 seconds**, making it at least **four times faster**.
 
 **Low Gas Fees**\
 It currently costs an average of **5** [**Gwei**](../glossary-and-vocab.md) to process a transaction on **BSC**, which is far cheaper than the **40** [**Gwei**](../glossary-and-vocab.md) charged on **Ethereum**. That is an **8x cheaper** price tag to run a [**dApp**](../glossary-and-vocab.md) on BSC than running the same app on **Ethereum**.&#x20;

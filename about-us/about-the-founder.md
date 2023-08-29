@@ -20,5 +20,5 @@ Educational background ranges from majors in Information & Business Administrati
 Furthermore a ISO 9001 Auditor, Consultant & Quality Manager.
 
 {% hint style="info" %}
-To learn more, check out my **** [**LinkedIn**](https://sr.linkedin.com/in/nigel-hupsel-5102b976)****
+To learn more, check out my [**LinkedIn**](https://sr.linkedin.com/in/nigel-hupsel-5102b976)
 {% endhint %}

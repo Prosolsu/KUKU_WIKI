@@ -8,7 +8,7 @@ WE ARE LIVE !\
 We welcome you to the E-Commerce world of KUKU !
 
 {% embed url="https://kukushop.net" %}
-[**www.kukushop.net**](https://www.kukushop.net)****
+[**www.kukushop.net**](https://www.kukushop.net)
 {% endembed %}
 
 ![](../../.gitbook/assets/kukushop.png)
@@ -16,7 +16,7 @@ We welcome you to the E-Commerce world of KUKU !
 A very broad offering of products and digital gift-cards from various top Online Shopping sites like Amazon, Walmart, Best Buy, Lowe's and Home Depot.
 
 {% hint style="success" %}
-All listed items on our webshop will be sold as a [**Drop Shipping Internet Service**](../../knowledge-center/glossary-and-vocab.md)****
+All listed items on our webshop will be sold as a [**Drop Shipping Internet Service**](../../knowledge-center/glossary-and-vocab.md)
 {% endhint %}
 
 {% hint style="success" %}

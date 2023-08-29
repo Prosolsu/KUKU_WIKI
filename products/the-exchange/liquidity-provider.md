@@ -18,7 +18,7 @@ Stake your LP Tokens in our Farms and earn even more on your money!
 
 {% hint style="warning" %}
 Providing liquidity can be risky!\
-Make sure you know about [**Impermanent Loss!**](../../knowledge-center/glossary-and-vocab.md)****
+Make sure you know about [**Impermanent Loss!**](../../knowledge-center/glossary-and-vocab.md)
 {% endhint %}
 
 {% embed url="https://exchange.pankuku.net/#/pool" %}

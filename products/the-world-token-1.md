@@ -27,7 +27,7 @@ A Tax Free Token: The Users, Community and Traders decide!
 
 **Token Details:**
 
-* Tax Free: 0% Buy and Sell
+* Tax Free: 0% Buy and Sell Fee
 * Modification of Tax and Fees not Possible
 * Verified Contract
 * Audited & KYC'd
