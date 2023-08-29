@@ -5,8 +5,8 @@ coverY: 0
 
 # 🌎 The WORLD Token
 
-<mark style="color:blue;">**Kuku World (WORLD)**</mark> is a <mark style="color:green;">**Tax Free Fueling Token**</mark> for the KUKU Eco-System. Raised Profits through special sales will be used to further develop different Projects in the DeFi Crypto Space. \
-Holders of the WORLD token gain **SPECIAL ACCESS** to \
+<mark style="color:blue;">**Kuku World (WORLD)**</mark> is a <mark style="color:green;">**Tax Free Fueling Token**</mark> for the **KUKU Eco-System**. **Raised Profits** through Special Sales will be used to further develop different **Projects** in the **DeFi Crypto Space**. \
+**Holders** of the **WORLD** token gain **SPECIAL ACCESS** to \
 **Multiple Online Services** , **Games**, **Movies**, **Discounts** and **many** more Utilities. Check them out below!
 
 {% embed url="https://www.kuku.world/" %}
@@ -27,9 +27,9 @@ A Tax Free Token: The Users, Community and Traders decide!
 
 **Token Details:**
 
-* Tax Free: 0%
+* Tax Free: 0% Buy and Sell
 * Modification of Tax and Fees not Possible
 * Verified Contract
-* Not Mintable: Capped Supply
+* Audited & KYC'd
 * Anti-Bot System
-*
+* No Minting of new tokens (Capped forever)
