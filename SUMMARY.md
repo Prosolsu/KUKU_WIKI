@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇸🇷 panKUKU](README.md)
+* [🇸🇷 KUKU](README.md)
 
 ## About Us
 
@@ -18,6 +18,7 @@
   * [Tax System](products/the-kuku-token/tax-system.md)
   * [Minting Policy](products/the-kuku-token/minting-policy.md)
   * [Burning Policy](products/the-kuku-token/burning-policy.md)
+* [🌎 The WORLD Token](products/the-world-token.md)
 * [🌐 The Exchange](products/the-exchange/README.md)
   * [🔄 KUKU SWAP](products/the-exchange/kuku-swap.md)
   * [💸 Liquidity Provider](products/the-exchange/liquidity-provider.md)

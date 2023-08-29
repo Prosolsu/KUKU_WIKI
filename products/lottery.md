@@ -7,7 +7,7 @@ coverY: -47.6980198019802
 # 🎲 Lottery
 
 **Smartcontract**\
-[**0x912C6C618bd21cf101Ef11479AE4b2945C0D86E0**](https://bscscan.com/address/0x912c6c618bd21cf101ef11479ae4b2945c0d86e0#code)****
+[**0x912C6C618bd21cf101Ef11479AE4b2945C0D86E0**](https://bscscan.com/address/0x912c6c618bd21cf101ef11479ae4b2945c0d86e0#code)
 
 ### Prize Funds
 
@@ -26,7 +26,7 @@ The prizes for each lottery round come from three sources:
 * An average total of 10.000.000 (10 mil) KUKU from the treasury is added to lottery rounds over the course of a week. This KUKU is of course also included in rollovers!
 
 {% hint style="success" %}
-Our Lottery is funded by the [**ECO-System Reserve Address**](../knowledge-center/the-project/development/wallet-addresses.md)****
+Our Lottery is funded by the [**ECO-System Reserve Address**](../knowledge-center/the-project/development/wallet-addresses.md)
 {% endhint %}
 
 ### Winning Criteria

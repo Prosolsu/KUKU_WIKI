@@ -1,0 +1,35 @@
+---
+description: A Tax-Free Fueling Token on BEP20 & ERC20 Blockchain
+coverY: 0
+---
+
+# 🌎 The WORLD Token
+
+<mark style="color:blue;">**Kuku World (WORLD)**</mark> is a <mark style="color:green;">**Tax Free Fueling Token**</mark> for the KUKU Eco-System. Raised Profits through special sales will be used to further develop different Projects in the DeFi Crypto Space. \
+Holders of the WORLD token gain **SPECIAL ACCESS** to \
+**Multiple Online Services** , **Games**, **Movies**, **Discounts** and **many** more Utilities. Check them out below!
+
+{% embed url="https://www.kuku.world/" %}
+
+**Smart Contract Address BEP20 & ERC20**\
+<mark style="color:blue;">**0x0293cd84D7C67D508DeA8d8Dd28a9C4E8bd1b8Fa**</mark>
+
+**BSC Explorer Link**\
+[https://bscscan.com/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa](https://bscscan.com/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa)\
+\
+**ETH Explorer Link**\
+[https://etherscan.io/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa](https://etherscan.io/token/0x0293cd84d7c67d508dea8d8dd28a9c4e8bd1b8fa)\
+
+
+{% hint style="success" %}
+A Tax Free Token: The Users, Community and Traders decide!
+{% endhint %}
+
+**Token Details:**
+
+* Tax Free: 0%
+* Modification of Tax and Fees not Possible
+* Verified Contract
+* Not Mintable: Capped Supply
+* Anti-Bot System
+*
