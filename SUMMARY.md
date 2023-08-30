@@ -24,7 +24,6 @@
   * [Tax System](products/the-world-token/tax-system.md)
   * [Minting Policy](products/the-world-token/minting-policy.md)
   * [Burning Policy](products/the-world-token/burning-policy.md)
-* [🌎 The WORLD Token](products/the-world-token-1.md)
 * [🌐 The Exchange](products/the-exchange/README.md)
   * [🔄 KUKU SWAP](products/the-exchange/kuku-swap.md)
   * [💸 Liquidity Provider](products/the-exchange/liquidity-provider.md)

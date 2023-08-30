@@ -31,3 +31,5 @@ description: Downloadable Media and SVG link
 ![](<../../../.gitbook/assets/panKUKU-removebg-500x500 (1).png>)
 
 <figure><img src="../../../.gitbook/assets/Kuku_World_Logo.png" alt=""><figcaption><p>Kuku_World</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/KUKU_WORLD_TRANSPARENT_512x512.png" alt=""><figcaption><p>KukuWorld_512x512</p></figcaption></figure>
