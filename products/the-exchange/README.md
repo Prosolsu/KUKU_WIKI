@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/what-is-a-decentralized-exchange-dex.png
 coverY: 0
 ---
 
-# 🌐 The Exchange
+# 💹 The Exchange
 
 **Trade**\
 Instantly swap crypto tokens: no registration or account needed.

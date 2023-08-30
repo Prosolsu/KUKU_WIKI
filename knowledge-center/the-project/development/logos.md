@@ -32,4 +32,4 @@ description: Downloadable Media and SVG link
 
 <figure><img src="../../../.gitbook/assets/Kuku_World_Logo.png" alt=""><figcaption><p>Kuku_World</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/KUKU_WORLD_TRANSPARENT_512x512.png" alt=""><figcaption><p>KukuWorld_512x512</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KukuWorld_200x200.png" alt=""><figcaption><p>KukuWorld_200x200</p></figcaption></figure>
