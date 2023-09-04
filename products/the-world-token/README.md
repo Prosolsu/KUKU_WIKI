@@ -1,6 +1,6 @@
 ---
 description: A Tax-Free Fueling Token on BEP20 & ERC20 Blockchain
-cover: ../../.gitbook/assets/banner_kuku (1).jpg
+cover: ../../.gitbook/assets/Kuku World KYC Certificate.png
 coverY: 0
 ---
 
