@@ -7,6 +7,7 @@ description: Token Tracker Kuku World
 **Name**        : Kuku World\
 **Ticker**        : WORLD\
 **Decimals**  : 18\
+**Supply**       : 1,000,000 ( 1 Million)\
 **Chain**         : Binance Smart Chain <mark style="color:yellow;">(</mark>[<mark style="color:yellow;">**BEP-20**</mark>](../../knowledge-center/glossary-and-vocab.md)<mark style="color:yellow;">)</mark> & Ethereum Blockchain <mark style="color:blue;">**(ERC-20)**</mark>
 
 **Official Contract address**\

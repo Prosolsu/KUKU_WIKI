@@ -4,7 +4,9 @@ description: Minting is the process of creating or producing new tokens
 
 # Minting Policy
 
-In contrary to our inspired **CAKE**, our token **KUKU** does not mint new tokens and is **capped forever**.  This makes the token [**Deflationary.**](../../knowledge-center/glossary-and-vocab.md)
+One Time Minting
 
 **Total Supply Minted**\
-1 Trillion: 1,000,000,000,000
+1 Million: 1,000,000
+
+**CAPPED FOREVER  - CONTRACT NOT ABLE TO MINT ANYMORE**

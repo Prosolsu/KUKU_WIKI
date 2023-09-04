@@ -7,6 +7,7 @@ description: Token Tracker panKUKU
 **Name**        : Pankuku\
 **Ticker**        : KUKU\
 **Decimals**  : 18\
+**Supply**       : 1,000,000,000,000 ( 1 Trillion)\
 **Chain**         : Binance Smart Chain ([**BEP-20**](../../knowledge-center/glossary-and-vocab.md))
 
 **Official Contract address**\

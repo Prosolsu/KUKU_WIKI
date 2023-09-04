@@ -8,3 +8,5 @@ In contrary to our inspired **CAKE**, our token **KUKU** does not mint new token
 
 **Total Supply Minted**\
 1 Trillion: 1,000,000,000,000
+
+**CAPPED FOREVER  - CONTRACT NOT ABLE TO MINT ANYMORE**
